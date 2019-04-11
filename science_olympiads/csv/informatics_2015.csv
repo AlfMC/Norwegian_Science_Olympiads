@@ -1,0 +1,102 @@
+,points,gender,first_name,full_name,school
+0,61,male,Marvin,Marvin Reza,Oslo Katedralskole
+1,61,male,Fridtjof,Fridtjof Eikanger,Trondheim Katedralskole
+2,60,male,Aleksander,Aleksander Dash,Oslo International School
+3,60,male,Johan,Johan Sokrates Wind,Kongsbakken
+4,60,male,Håkon,Håkon Flatval,Kristelig Gymnasium
+5,56,male,Valentin,Valentin Plotkin,Bergen katedralskole
+6,54,female,Kari,Kari Lovise Lodsby,Hadeland videregående skole
+7,53,male,Benjamin,Benjamin Breiby,Elvebakken vgs
+8,53,male,Mikchal,Mikchal Sladecek,Frogn vgs
+9,52,male,Håvard,Håvard Terland,Bergen katedralskole
+10,52,male,Daniel,Daniel Tobias Johansen,Nord-Troms vgs
+11,52,male,Birk,Birk Ramberg,Stabekk vgs
+12,52,unknown,Earan,Earan Thomas Pattie,st olav vgs stavanger
+13,50,male,Øyvind,Øyvind Taksdal Stubhaug,Oslo Katedralskole
+14,49,male,Philip,Philip Trætteberg,Fana Gymnas
+15,49,male,Mathias,Mathias Chunnoo,Trondheim Katedralskole
+16,48,male,Eivind,Eivind Aunebakk,Fana Gymnas
+17,48,male,Sindre,Sindre Fonnes,Fana Gymnas
+18,48,male,Haakon,Haakon LL Ervik,Bergen Katedralskole
+19,48,male,Mathias,Mathias Bynke,Oslo Katedralskole
+20,48,male,Konrad,Konrad Hagen,Frogn vgs
+21,48,unknown,Neethan,Neethan Puvanendran,Kongsbakken
+22,48,male,Håvard,Håvard Mo Vaadal,Lillehammer vgs avd Sør
+23,47,male,Mathias,Mathias Aarsland,Tryggheim skular
+24,47,male,Jørgen,Jørgen Juel,Drammen Videregående skole
+25,47,male,Halvor,Halvor Helvig,Elvebakken vgs
+26,47,female,Embla,Embla Linnea Brusberg,Foss
+27,47,male,Thomas,Thomas Lund Mathisen,Kristelig Gymnasium
+28,46,male,Jeremi,Jeremi Joseph,Elvebakken vgs
+29,46,male,Steffen,Steffen Tømmerås,Elvebakken vgs
+30,46,male,Robert,Robert Maiker,Stabekk vgs
+31,46,male,Amund,Amund Marton,Foss
+32,45,male,Ingebrigt,Ingebrigt Nygård,Tryggheim skular
+33,45,male,Simen,Simen Lybekk,Mailand VGS
+34,45,male,Håvard,Håvard Damm-Johnsen,Oslo Katedralskole
+35,44,male,Håkon,Håkon Vågsether,Spjelkavik vgs
+36,44,male,Mikael,Mikael Klages,Valler vgs
+37,44,male,Anders,Anders Franzen,Fana Gymnas
+38,44,male,Rein,Rein Oterholm,Elvebakken vgs
+39,44,male,Alexander,Alexander Snarli,Stabekk vgs
+40,44,male,Sigurd,Sigurd Melsom,Stabekk vgs
+41,44,male,Eivind,Eivind Kristiansen,Oslo Katedralskole
+42,44,male,Joachim,Joachim Nergaard,Stabekk vgs
+43,44,male,Anders,Anders Christie,Foss
+44,44,male,Brage,Brage Birkelund Olsen,Kongsbakken
+45,44,female,Kristiane,Kristiane Westgård,Kongsbakken
+46,44,male,Morten,Morten Reinskau Olsen,st olav vgs stavanger
+47,44,male,Erik,Erik Andre Klepp Vik,st olav vgs stavanger
+48,44,male,Torgeir,Torgeir Sulheim,Lillehammer vgs avd Sør
+49,44,male,Eivind,Eivind Holen Jølsgard,Lillehammer vgs avd Sør
+50,44,male,Erling,Erling Solberg,Kongsbakken
+51,43,male,Aleksander,Aleksander Kaspersen,Drammen VGS
+52,43,male,Pål,Pål Hannus,Stabekk vgs
+53,43,male,Espen,Espen Navrud,Frogn vgs
+54,43,male,Kim,Kim Christian Åsgård,Frogn vgs
+55,43,male,Johannes,Johannes Beyer Bruvik,Oslo International School
+56,43,male,Isak,Isak Sunde Singh,Kongsbakken
+57,43,male,Fredrik,Fredrik Tvinde,Kristelig Gymnasium
+58,42,male,Thomas,Thomas Løkkeborg,Spjelkavik vgs
+59,42,male,Ola,Ola Irgens Kylling,Spjelkavik vgs
+60,42,male,Karl,Karl August Høivik,Drammen Videregående skole
+61,42,male,Simon,Simon Ingebrigt Golombek,Elvebakken vgs
+62,42,male,Jon,Jon Johansen,Kongsbakken
+63,42,male,Markus,Markus Servan,st olav vgs stavanger
+64,41,male,Lars,Lars Mathias Arnesen,Fana Gymnas
+65,41,male,Kristoffer,Kristoffer Winther,Elvebakken vgs
+66,41,male,Morten,Morten Hovind,Stabekk vgs
+67,41,female,Johanne,Johanne Mosling,Frogn vgs
+68,41,male,Aksel,Aksel H Sørbye,Kongsbakken
+69,40,male,Sander,Sander Skartveit,Tryggheim skular
+70,40,male,Jonas,Jonas Aas,Drammen VGS
+71,40,male,Jørgen,Jørgen Skinnes,Drammen VGS
+72,40,male,Jake,Jake Leong,Drammen VGS
+73,40,male,Petter,Petter Elvevoll,Fana Gymnas
+74,40,male,Jacob,Jacob Andersen,Elvebakken vgs
+75,40,male,Erlend,Erlend Blomseth,Elvebakken vgs
+76,40,male,Tord,Tord Fjermestad,Elvebakken vgs
+77,40,male,Daniel,Daniel Elston,Stabekk vgs
+78,40,male,Petter,Petter Dølvik,Frogn vgs
+79,40,male,Jakob,Jakob Solvang,Kongsbakken
+80,40,male,August,August Solvang,Kongsbakken
+81,40,female,Guro,Guro Hauen,Kongsbakken
+82,40,male,Edvard,Edvard S. Tollefsrud,Lillehammer vgs avd Sør
+83,40,male,Sander,Sander Persen,Lillehammer vgs avd Sør
+84,39,male,Kasper,Kasper Kristoffersen,Mailand VGS
+85,39,male,William,William Sletsjøe,Elvebakken vgs
+86,39,male,Jakob,Jakob Skrede,Foss
+87,39,male,Tolga,Tolga Zeybek,Foss
+88,39,male,Henning,Henning Ødeby Karlsen,Nesodden VGS
+89,39,male,Eirik,Eirik Falch,st olav vgs stavanger
+90,38,female,Truc,Truc Phan,Elvebakken vgs
+91,38,male,Georg,Georg Røise,Stabekk vgs
+92,38,male,Vemund,Vemund Eidskrem,Foss
+93,37,male,Ola,Ola Odland,Tryggheim skular
+94,37,male,Lars,Lars Haugen Gjelle,Mailand VGS
+95,37,male,Stian,Stian Emil Arnesen,Tertnes videregående skole
+96,37,male,Sondre,Sondre Wold,Frogn vgs
+97,37,male,Lars,Lars Haga,Frogn vgs
+98,37,male,Brede,Brede Herstein,Kongsbakken
+99,37,male,Fredrik,Fredrik Gyllenhammar,st olav vgs stavanger
+100,37,male,Herman,Herman Sletmoen,Lillehammer vgs avd Sør

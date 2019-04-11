@@ -1,0 +1,516 @@
+Fornavn ,Etternavn ,Poeng ,Skole
+Eirik Løhaugen ,Fjærbu ,27,Vågsbygd vgs.
+Tobias ,Solli Iveland ,26,Berg vgs.
+Jørn Kløvfjell ,Mjelva ,25.5,Stavanger Katedralskole
+Kristian ,Sæther ,25,Fagerlia vgs. AF
+Knut Andreasm, Meyer, 24,Danielsen vgs.
+Jens Harald ,Seiertun ,23.5,Kristelig gymnasium
+Hans Olaf ,Hågenvik ,23,Skeisvang vgs.
+Runar ,Skålbones ,22,Bodø vgs.
+Gaute ,Linga ,22,Fana Gymnas
+Amund ,Ersland ,22,Langhaugen skole
+Mikkel ,Henninen ,22,Levanger vgs.
+Georg ,Bugge ,22,Oslo Katedralskole
+Abraham ,Horgen ,21,Austrheim vgs.
+Sondre ,Kvamme ,20,Fana Gymnas
+Mathias ,Strand ,20,Kristelig gymnasium
+Stian, Solberg ,20,Danilesen vgs.
+Nora Tangen ,Raknes ,19,Atlanten vgs.
+Ole ,Næss ,19,Bergen Handelsgymnasium
+Ole Martin ,Enget ,19,Ole Vig vgs.
+Kasper ,Sandal ,19,Sandsli vgs.
+ Asbjørn, Riseth ,19,Valler vgs.
+Stig Henning ,Fredheim ,18,Bodø vgs.
+Espen ,Skjong ,18,Fagerlia vgs. AF
+Lars Holterud ,Aarsnes ,18,Lørenskog vgs.
+Adrian ,Haaland ,18,Mandal vgs.
+Kristian Høy ,Horsberg ,18,Nordstrand vgs.
+Håvard ,Normann ,18,Oslo Handelsgymnasium
+Rasmus ,Skaare ,18,Oslo Handelsgymnasium
+Håkon ,Leithe ,18,Selbu vgs.
+Olav ,Homlong ,18,Volda vgs.
+Mikael ,Toresen ,17,Lambertseter vgs.
+Johan ,Moen ,17,Melhus vgs.
+Ailo ,Aasen ,17,Sandnessjøen vgs.
+Olav Willumsen ,Haugå ,17,Vågsbygd vgs.
+Erik ,Kvanli ,17,Årdal vgs.
+Olav Drivenes, Sæbø ,17,Danielsen vgs.
+Johan Sofus ,Gjøen ,16,Atlanten vgs.
+Gaute ,Guldahl ,16,Berg vgs.
+Oda ,Jacobsen ,16,Bodø vgs.
+Ola Martin ,Støvneng ,16,Byåsen vgs.
+Helge ,Tovslid ,16,Drammen vgs.
+Øyvind ,Moen ,16,Hadeland vgs.
+Kjetil ,Halsbog ,16,Knarvik vgs.
+Rune S. ,Leirkjær ,16,Kristiansand Katedralskole
+Jarle ,Stavnes ,16,Kristiansand Katedralskole
+Frode ,Urdal ,16,Lambertseter vgs.
+Håkon ,Gulbrandsen ,16,Lambertseter vgs.
+Carl Magnus ,Mathisen ,16,Oslo Katedralskole
+Ida Elise ,Solhaug ,16,Polarsirkelen vgs.
+Jabir Ali ,Ouassou ,16,Ringerike vgs.
+Martin ,Mo ,16,Sauda vgs.
+Christer ,Bru ,16,St. Svithun vgs.
+Jan Erik, Leinaas, 16,Valler vgs.
+Tordis ,Dahle ,15,Bergen Katedralskole
+Arne ,Skålbones ,15,Bodø vgs.
+Martin ,Stokkeland ,15,Bryne vgs.
+Jan Tore ,Time ,15,Bryne vgs.
+Stein Martin ,Fagerland ,15,Brønnøysund vgs.
+Kristoffer ,Bjørnvik ,15,Brønnøysund vgs.
+Eivind ,Hillesund ,15,Dahlske vgs.
+Espen ,Eide ,15,Fagerborg vgs.
+Martin ,Slagstad ,15,Firda vgs.
+Jon Åge ,Stakvik ,15,Fræna vgs.
+Odin ,Kvam ,15,Laksevåg gymnas
+Juri ,Selvåg ,15,Laksevåg gymnas
+Trygve ,Aaberget ,15,Lambertseter vgs.
+Mads Jonas ,Christensen ,15,Lillestrøm vgs.
+Ingrid Kvåle ,Nordaas ,15,Sandsli vgs.
+Erik ,Marthinsen ,15,Ski vgs.
+Eva Holthe ,Enoksen ,15,Stavanger Katedralskole
+Kjartan ,Horpestad ,15,Tryggheim vgs
+Nicolai ,Ludvigsen ,15,Valler vgs.
+Arnbjørn ,Noreng ,15,Røyken vgs.
+Terje Anderson ,"Antonsen, ",15,Nadderud vgs.
+Ingvild ,Lyckander ,14.5,Oslo Katedralskole
+Nicolay Line ,Holm ,14,Arendal vgs.
+Ognjen ,Rasinac ,14,Atlanten vgs.
+Frode Kristoffer A. ,Kjøsnes ,14,Byåsen vgs.
+Trond ,Østensen ,14,Byåsen vgs.
+Fridtjof ,Melle ,14,Fagerborg vgs.
+Edvard ,Hove ,14,Fagerlia vgs. AF
+Kristoffer ,Berg ,14,Jessheim vgs.
+Patrick F. ,Jacobsen ,14,Kristen vgs. (Trøndelag)
+Elisabeth ,Ramsdal ,14,Kristiansand Katedralskole
+Torstein ,Vabo ,14,Kristiansand Katedralskole
+Maria ,Gabel ,14,Lambertseter vgs.
+Jimmy ,Chan ,14,Lambertseter vgs.
+Simen ,Granlund ,14,Lambertseter vgs.
+Martin ,Nordal ,14,Lambertseter vgs.
+Raymond ,Toft ,14,Langhaugen skole
+Renate ,Larsen ,14,Mandal vgs.
+Kurt-Albert G ,Plassen ,14,Nord-Gudbrandsdal vgs.
+Ole Erik ,Follstad ,14,Nord-Østerdal vgs.
+Torkild ,Rødvand ,14,Polarsirkelen vgs.
+Thor Olaf , ,14,St. Olav vgs.
+Jon Erik ,Medhus ,14,St. Olav vgs.
+Lars Eirik ,Malde ,14,St. Svithun vgs.
+Pål ,Bore ,14,St. Svithun vgs.
+Christian ,Svihus ,14,St. Svithun vgs.
+Therese ,Lossius ,14,Valler vgs.
+Magnus ,Stenhaug ,14,Vågsfjord vgs
+Kristin Marie, Endal ,14,Danielsen vgs.
+Mathias ,Østrem ,14,Spkjelkavik vgs.
+Sophie ,Karslen ,13.5,Kirkeparken vgs.
+Erik ,Sandmark ,13.5,Oslo Katedralskole
+Mathias ,By ,13,Adolf Øien skole
+Magnus Thue ,Stokstad ,13,Atlanten vgs.
+Olav ,Rossøy ,13,Byåsen vgs.
+Markus ,Weierud ,13,Drammen vgs.
+Bjørnar ,Smestad ,13,Fagerlia vgs. AF
+Sigurd N. ,Slettmo ,13,Frogn vgs
+Ingrid Roen ,Velo ,13,Hadeland vgs.
+Lasse ,Øvrelid ,13,Hafstad vgs.
+Andreas ,Magerøy ,13,Hafstad vgs.
+Christoffer ,Fleischer ,13,Kirkeparken vgs.
+Daniel ,Mikalsen ,13,Kristiansand Katedralskole
+Marie Sæthre ,Grøtting ,13,Lambertseter vgs.
+Vegard ,Edvardsen ,13,Lillehammer vgs.
+Pål Henrik ,Hagen ,13,Lillehammer vgs.
+Erik ,Stadheim ,13,Lillehammer vgs.
+Ida Marie ,Mørk ,13,Molde vgs.
+Mia K. ,Løvmo ,13,Nord-Gudbrandsdal vgs.
+Yngve ,Guttormsen ,13,Nordkjosbotn vgs.
+Hans Petter ,Heimro ,13,Nordkjosbotn vgs.
+Petter ,Langlete ,13,Nøtterøy vgs.
+Kaja ,Eriksen ,13,Nøtterøy vgs.
+Vegard ,Tømmernes ,13,Odda vgs.
+Elias ,Nonås ,13,Ole Vig vgs.
+Nora ,Midttun ,13,Oslo Handelsgymnasium
+Øystein ,Askeland ,13,Persbråten vgs.
+Tobias ,Unneland ,13,Persbråten vgs.
+Eirik Stenby ,Hauge ,13,Skeisvang vgs.
+Sigbjørn ,Albertsen ,13,Sortland vgs.
+Daniel ,Punsvik ,13,Sortland vgs.
+Tor Arild ,Melby ,13,St. Svithun vgs.
+Marcus ,Egenberg ,13,St. Svithun vgs.
+Håkon, Hartmark Person ,13,Tryggheim vgs
+Gunnar Andreas ,Skogvold ,13,Valler vgs.
+Thomas ,Falch-Pedersen ,13,Valler vgs.
+Geir Bendik ,Storesund ,13,Vardafjell vgs.
+Thomas A. ,Tøgersen ,13,Vardafjell vgs.
+Kåre Martin ,Sormbroen ,13,Øvrebyen vgs.
+Ingrid ,Thorbjørnsen ,13,Vågsfjord vgs
+Øyvind ,Kalvø ,13,Danielsen vgs.
+Astrid ,"Rasten, ",13,Nadderud vgs.
+Tarjei ,Riise ,13,Spkjelkavik vgs.
+Hanne Siri ,Heglum ,12.5,Trondheim Katedralskole
+Andreas Davis ,Sandbu ,12,Adolf Øien skole
+Torstein ,Hellebust ,12,Askøy vgs
+Vegard ,Aaberg ,12,Berg vgs.
+Alexander ,Helstad ,12,Berg vgs.
+Dagrun ,Haugland ,12,Bergen Handelsgymnasium
+Christoffer ,Rognes ,12,Bodø vgs.
+Andreas ,Sandbakken ,12,Drammen vgs.
+Ole André ,Bech ,12,Drammen vgs.
+Andreas ,Valeur ,12,Fana Gymnas
+Tarje ,Sandvik ,12,Finnfjordbotn vgs.
+Marita ,Jacobsen ,12,Finnfjordbotn vgs.
+Aslak ,Eriksen ,12,Hartvig Nissens skole
+Jean Niklas ,Lorange ,12,Jessheim vgs.
+Håkon Derås ,Bergset ,12,Jessheim vgs.
+Hans Martin ,Espegren ,12,Kristelig gymnasium
+Asle ,Hammerdal ,12,Kristen vgs. (Trøndelag)
+Bjørnar ,Andersen ,12,Kristiansand Katedralskole
+Tor Andrè ,Knutsen ,12,Kristiansand Katedralskole
+Truls ,Stokke ,12,Kristiansand Katedralskole
+Kenan ,Truka ,12,Kristiansand Katedralskole
+Halvar ,Myhrvold ,12,Lambertseter vgs.
+Alexander ,Sigurdsson ,12,Lambertseter vgs.
+Thor ,Nordahl ,12,Lillehammer vgs.
+Ingrid ,Barkhald ,12,Lørenskog vgs.
+Aleksander Haug ,Søgård ,12,Lørenskog vgs.
+Håkon Hagen ,Helgesen ,12,Lørenskog vgs.
+Jacob ,Skauvold ,12,Mandal vgs.
+Simen ,Hosar ,12,Nord-Gudbrandsdal vgs.
+Fredrik ,Helness ,12,Nordstrand vgs.
+Kenneth ,Krog ,12,Nord-Østerdal vgs.
+Amund ,Rusten ,12,Nord-Østerdal vgs.
+Ola ,Sandeggen ,12,Nord-Østerdal vgs.
+Magnus ,Nykås ,12,Notodden vgs.
+Torhild Anette ,Kvingedal ,12,Odda vgs.
+Fredrik ,Hårstad ,12,Ole Vig vgs.
+Brynjar Aalberg ,Jacobsen ,12,Oppdal vgs.
+Maria ,Mortensen ,12,Oslo Handelsgymnasium
+Marius ,Gaarder Almgren ,12,Oslo Handelsgymnasium
+Are ,Berg ,12,Oslo Handelsgymnasium
+Magnus Solheim ,Thrap ,12,Persbråten vgs.
+Ole Herman ,Kiær ,12,Ringerike vgs.
+Ånon ,Dalane ,12,Risør vgs.
+Skjalg ,Bjørkevoll ,12,Sandsli vgs.
+Krister Stræte ,Karlsen ,12,Solør vgs.
+Tormod ,Haugene ,12,Sortland vgs.
+Vegar ,Engen ,12,St. Hallvard vgs.
+Lars 3stf ,Lørup ,12,St. Olav vgs.
+Bjarne ,Handeland ,12,St. Svithun vgs.
+Fredrik ,Roaldsø ,12,St. Svithun vgs.
+Ylva Kolsrud ,"Lønvik, ",12,Stabekk vgs.
+Sven Henrik ,Andresen ,12,Valler vgs.
+Anders ,Engdahl ,2,Valler vgs.
+Erling ,Stølen ,12,Valler vgs.
+Ida ,Kvalsvik ,12,Volda vgs.
+Torbjørn ,Sørli ,12,Øvrebyen vgs.
+Kristian ,Snare ,12,Øvrebyen vgs.
+Eirik ,Natvik ,12,Årdal vgs.
+Åsmund Treu ,"Røe, ",12,Nadderud vgs.
+Thomas ,Helgesen ,12,Spkjelkavik vgs.
+Erlend ,Giske Grøtta ,12,Spkjelkavik vgs.
+Erik ,Dahlberg ,11.5,Kirkeparken vgs.
+Elma ,Bahonjic ,11.5,Øvrebyen vgs.
+Jon Harald ,Skaare ,11.5,Øvrebyen vgs.
+Christoffer ,Næss ,11,Arendal vgs.
+Nebosja ,Petkov ,11,Arendal vgs.
+Christian ,Cheung ,11,Berg vgs.
+Baricuatro ,Kristiansen ,11,Bergen Katedralskole
+Hege Beate ,Seilen ,11,Bergen Katedralskole
+Omair ,Zulquarnain ,11,Bodø vgs.
+Magnus M. ,Sandvold ,11,Byåsen vgs.
+Andreas ,Viggen ,11,Byåsen vgs.
+Trond R. ,Henninen ,11,Byåsen vgs.
+Jon ,Tingvoll ,11,Dahlske vgs.
+Sebastian ,Scanke ,11,Drammen vgs.
+Robin ,Tollisen ,11,Eilert Sundt vgs.
+Sondre ,Solheim ,11,Hadeland vgs.
+Marie Kristine ,Brandrud ,11,Hadeland vgs.
+Martin ,Stensgård ,11,Hadeland vgs.
+Erlend ,Kirkebø ,11,Hafstad vgs.
+Astrid ,Marthinsen ,11,Heimdal vgs.
+Eirik Kampstrup ,Hovind ,11,Jessheim vgs.
+Sjur Messel ,Nafstad ,11,Jessheim vgs.
+Andreas ,Ellingsen ,11,Jessheim vgs.
+Aleksander ,Hindenes ,11,Knarvik vgs.
+Marshall Joseph ,Andersen ,11,Kristen vgs. (Trøndelag)
+Thomas ,Lund ,11,Kristen vgs. (Trøndelag)
+Sivert ,Solem ,11,Kristen vgs. (Trøndelag)
+Lars ,Kleveland ,11,Kristen vgs. (Trøndelag)
+Sigurd Vikøyr ,Holte ,11,Kristiansand Katedralskole
+Annika ,Klungland ,11,Kristiansand Katedralskole
+Mathilde ,Skylstad ,11,Kristiansand Katedralskole
+Magnus Alexander ,Thuresson ,11,Lambertseter vgs.
+Håkon ,Wikene ,11,Lambertseter vgs.
+Kenneth ,Slaatsveen ,11,Lillehammer vgs.
+Jørn ,Tallaksen ,11,Lillehammer vgs.
+Martin ,Haugen ,11,Lørenskog vgs.
+Amir Abbas ,Bagherzadeh ,11,Lørenskog vgs.
+Petter Hansen ,Breituft ,11,Lørenskog vgs.
+Jonas Løken ,Granås ,11,Lørenskog vgs.
+Henrik ,Oppen ,11,Molde vgs.
+Øystein ,Olesen ,11,Nesbru vgs.
+Kristoffer E ,Hannevig-Larssen ,11,Nordstrand vgs.
+Steinar ,Horten ,11,Nord-Østerdal vgs.
+Sigbjørn ,Taksdal ,11,Nøtterøy vgs.
+Petter Seim ,Holten ,11,Odda vgs.
+Jasmin ,Spago ,11,Ole Vig vgs.
+Runa Folvik ,Bjerkholt ,11,Ole Vig vgs.
+Dorte ,Sagen ,11,Oslo Handelsgymnasium
+Rikke ,Iversen ,11,Oslo Handelsgymnasium
+Ketil Mikalsen ,Kvifte ,11,Osterøy vgs.
+Erik ,Samuelsson ,11,Sandsli vgs.
+Martin ,Støyten ,11,Sauda vgs.
+Marius Bjørnevik ,Pents ,11,Skeisvang vgs.
+Jonas ,,11,St. Olav vgs.
+Just Christian ,"Heide, ",11,Stabekk vgs.
+Beatrice Christina ,"Ignacius, ",11,Stabekk vgs.
+Ole Jørgen Dahl ,Moe ,11,Tvedestrand vgs.
+Heidi Anine ,Korsmo ,11,Tyrifjord vgs.
+Jens Patrick ,Repshus ,11,Øvrebyen vgs.
+Mats ,Ramfjord ,11,Vågsfjord vgs
+Therese ,"Vadholm, ",11,Nadderud vgs.
+Kristian ,"Fløgstad, ",11,Nadderud vgs.
+Louis Budude ,"Mambo, ",11,Nadderud vgs.
+Øyvind ,Kopperstad ,11,Spkjelkavik vgs.
+Robin ,Kjernet ,10.5,Øvrebyen vgs.
+Håkon ,Duus ,10,Arendal vgs.
+Anders ,Sundsdal ,10,Arendal vgs.
+Joakim ,Kanestrøm ,10,Arendal vgs.
+Ketil ,Rage ,10,Bergen Katedralskole
+Mai-Linn ,Sanden ,10,Bergen Handelsgymnasium
+Espen ,Undheim ,10,Bryne vgs.
+Andreas Naper ,Trønnes ,10,Byåsen vgs.
+Mariusz ,Santora ,10,Byåsen vgs.
+Brage ,Hansen ,10,Byåsen vgs.
+Fatemeh ,Solohmofarah ,10,Drammen vgs.
+Cecilie ,Baglo ,10,Eikeli vgs.
+Henrik Olav ,Klevar ,10,Eikeli vgs.
+Anja ,Nesse ,10,Fagerborg vgs.
+Marius ,Holmemo ,10,Finnfjordbotn vgs.
+Ørjan ,Berntsen ,10,Finnfjordbotn vgs.
+Olav ,Fortun ,10,Firda vgs.
+Thomas ,Nilsen ,10,Fyllingsdalen vgs.
+Magnus ,Babsvik ,10,Greåker vgs.
+Jamal ,Haghghi ,10,Greåker vgs.
+Nataniel ,Ljostveit ,10,Hafstad vgs.
+Vinh Thai Ho ,Phan ,10,Heimdal vgs.
+Per Kristoffer Grinds ,Langbakk ,10,Jessheim vgs.
+Vetle Ruud ,Bråten ,10,Jessheim vgs.
+Niklas ,Olsen ,10,Kirkeparken vgs.
+Mads ,Rokstad ,10,Kirkeparken vgs.
+Anders ,Storebø ,10,Knarvik vgs.
+Henrik ,Foss ,10,Kristen vgs. (Trøndelag)
+Ragnar M. ,Bergem ,10,Kristen vgs. (Trøndelag)
+Ståle ,Rønning ,10,Kristen vgs. (Trøndelag)
+Thomas ,Gjerde ,10,Kristen vgs. (Trøndelag)
+Magnus ,Bjerke ,10,Kristen vgs. (Trøndelag)
+Kristian K. ,Skordal ,10,Kristiansand Katedralskole
+Sindre ,Stavseth ,10,Kristiansand Katedralskole
+Jon Fredrik ,Timenes ,10,Kristiansand Katedralskole
+Ragnhild ,Grue ,10,Lambertseter vgs.
+Fredrik ,Nordum ,10,Lambertseter vgs.
+Jonas ,Amundsen ,10,Lambertseter vgs.
+Fredrik ,Nøring ,10,Lambertseter vgs.
+Sigmund ,Ramberg ,10,Lillehammer vgs.
+Johnny Quang Tuan ,Huynh ,10,Lørenskog vgs.
+Hege Westvold ,Johansen ,10,Lørenskog vgs.
+Anders ,Hefre ,10,Lørenskog vgs.
+Trine Lefdal ,Nordgård ,10,Lørenskog vgs.
+Jonas ,Fuglseth ,10,Molde vgs.
+Henrik ,Hjelle ,10,Molde vgs.
+Jean-Michael ,Poudroux ,10,Molde vgs.
+Elisabeth Tanami ,Vågenes ,10,Molde vgs.
+Liv .H. ,Svare ,10,Nord-Gudbrandsdal vgs.
+Tommy ,Dahlstrøen ,10,Nord-Østerdal vgs.
+Kristian ,Nymoen ,10,Nord-Østerdal vgs.
+N. ,N. ,10,Nord-Østerdal vgs.
+Eivind ,Gjertsen ,10,Nøtterøy vgs.
+Christian ,Kavli ,10,Nøtterøy vgs.
+Thomas ,Bakketun ,10,Odda vgs.
+Tor L. ,Sekse ,10,Odda vgs.
+Silje Kambe ,Fjæra ,10,Odda vgs.
+Tor-Erik ,Vist ,10,Ole Vig vgs.
+Stephanie ,Carr ,10,Oslo Handelsgymnasium
+Pauline ,Øien ,10,Oslo Handelsgymnasium
+Christian ,Hadley ,10,Ringerike vgs.
+Anders Philip ,Grefstad ,10,Risør vgs.
+Bernt Ivar ,Nødland ,10,Sandnes vgs.
+Eline Åbø ,Eeg ,10,Sauda vgs.
+Andreas Steensnæs ,Morland ,10,Skeisvang vgs.
+Guro ,,10,St. Olav vgs.
+Eirik 3ib ,Feedt ,10,St. Olav vgs.
+Michael Piccard ,"Handeland, ",10,Stabekk vgs.
+Henning Yu ,"Nilsen, ",10,Stabekk vgs.
+Siri ,Mathisen ,10,Trondheim Katedralskole
+Vera ,Gjervan ,10,Trondheim Katedralskole
+Geir ,Kirkeby ,10,Tryggheim vgs
+Nora Elise ,Grastveit ,10,Tvedestrand vgs.
+Eivind ,Schneider ,10,Tyrifjord vgs.
+Kristian Lindaas ,Sørensen ,10,Vardafjell vgs.
+Jeanette ,Rørvig ,10,Vardafjell vgs.
+Karl Oscar ,Bjørgen ,10,Vardafjell vgs.
+Preben ,Larsen ,10,Årdal vgs.
+Eirik ,Skjold ,10,Røyken vgs.
+Michael ,Krum-Hansen ,10,Vågsfjord vgs
+Karen Marie Nebb ,"Ek, ",10,Nadderud vgs.
+Siril ,"Heier, ",10,Nadderud vgs.
+Mads Grødem ,"Sømme, ",10,Nadderud vgs.
+Vegard ,Fiskum ,9.5,Trondheim Katedralskole
+Jonas Blomberg ,Ghini ,9,Arendal vgs.
+Mette ,Lundberg ,9,Arendal vgs.
+Espen ,Mjøs ,9,Arendal vgs.
+Vegard ,Haraldsen ,9,Askøy vgs
+Kenneth ,Solberg ,9,Aust-Lofoten vgs
+Ridaya ,Baral ,9,Bergen Katedralskole
+Jørgen ,Hannevik ,9,Bergen Handelsgymnasium
+Birthe ,Riisnes ,9,Bergen Handelsgymnasium
+Leonid ,Danielsen ,9,Bodø vgs.
+Andreas A. ,Jahn ,9,Brundalen vgs.
+Andre ,Auke ,9,Drammen vgs.
+Torstein ,Penne ,9,Eikeli vgs.
+William Eide ,Rode ,9,Eikeli vgs.
+Petter Kolling ,Johansen ,9,Eikeli vgs.
+Helene ,Wangen ,9,Eikeli vgs.
+Stian ,Skjong ,9,Fagerlia vgs. AF
+Asbjørn ,Sperre ,9,Fana Gymnas
+TINA ,NILSEN ,9,Finnfjordbotn vgs.
+Fredrik ,Grende ,9,Fyllingsdalen vgs.
+Silje ,Ness ,9,Fyllingsdalen vgs.
+Sharif Abdalla ,Ahmed ,9,Fyllingsdalen vgs.
+Britt Elin ,Hjøllo ,9,Fyllingsdalen vgs.
+Annette ,Brask ,9,Greåker vgs.
+Eivind ,Lunder ,9,Hadeland vgs.
+Natalie ,Kalland ,9,Heimdal vgs.
+Ole Hartvik ,Skogstad ,9,Heimdal vgs.
+Matrin Fald ,Gården ,9,Jessheim vgs.
+Øyvind ,Gismervik ,9,Jessheim vgs.
+Anders ,Obrestad ,9,Kristiansand Katedralskole
+Torjus Sveier ,Ottemo ,9,Kristiansand Katedralskole
+Petter ,Lilleengen ,9,Lambertseter vgs.
+Birger ,Vogt ,9,Lambertseter vgs.
+William ,Sigurdsson ,9,Lambertseter vgs.
+Simen ,Hellem ,9,Lambertseter vgs.
+Avjot Garcha ,Singh ,9,Lambertseter vgs.
+Shatthik ,Barua ,9,Lambertseter vgs.
+Håkon Hagen ,Evjenth ,9,Lørenskog vgs.
+Anders ,Aas ,9,Mandal vgs.
+Jon Christian ,Halvorsen ,9,Mandal vgs.
+Magnus ,Askeland ,9,Molde vgs.
+Jarandl ,Narbuvold ,9,Nesbru vgs.
+Erik ,Beyanski ,9,Nesbru vgs.
+Lars Jonas ,Narvhus ,9,Nordstrand vgs.
+Emil ,Qvam ,9,Nord-Østerdal vgs.
+Jens Even ,Tidemandsen ,9,Nøtterøy vgs.
+Alexander ,Isachsen ,9,Nøtterøy vgs.
+Ida ,Johansen ,9,Nøtterøy vgs.
+Casper ,Tidemandsen ,9,Nøtterøy vgs.
+Audun ,Engstrøm ,9,Nøtterøy vgs.
+Rune ,Gravaune ,9,Oppdal vgs.
+Sondre ,Steinsheim ,9,Oppdal vgs.
+Marit ,Tømmerek ,9,Oslo Handelsgymnasium
+Olav ,Herstad ,9,Oslo Handelsgymnasium
+Erik ,Glesne ,9,Oslo Katedralskole
+Øyvind ,Lunke ,9,Persbråten vgs.
+Brede Løvik ,Lillehammer ,9,Sauda vgs.
+Øyvind ,Garvik ,9,Sauda vgs.
+Ørjan Leiknes ,Apeland ,9,Skeisvang vgs.
+Morten ,Gunnerud ,9,St. Hallvard vgs.
+Thien Than ,,9,St. Olav vgs.
+Olivia ,Yi ,9,St. Olav vgs.
+Marcus ,Risanger ,9,St. Olav vgs.
+Youwei ,"Zhu, ",9,Stabekk vgs.
+Ole Bjørn Ellingsen ,Moe ,9,Tvedestrand vgs.
+Ole Noem ,Hansen ,9,Tvedestrand vgs.
+Mikkel ,Haslum ,9,Valler vgs.
+Øyvind ,Humberset ,9,Volda vgs.
+Simen ,Lilleng ,9,Vågsfjord vgs
+Henos Kifle ,"Tekle, ",9,Nadderud vgs.
+Andreas Vegsund ,"Gimnes, ",9,Nadderud vgs.
+Ola ,Hillestad ,9,Spkjelkavik vgs.
+Einar ,Grimstad ,8.5,Atlanten vgs.
+Solveig ,Medalen ,8,Adolf Øien skole
+Kristoffer ,Bjornes ,8,Arendal vgs.
+Petter Holm ,Reiso ,8,Arendal vgs.
+Andreas Lyngtveit ,Liindland ,8,Arendal vgs.
+Marius ,Harkestad ,8,Askøy vgs
+Stian ,Fagerli ,8,Askøy vgs
+Malene ,Larsen ,8,Askøy vgs
+Runar ,Stemland ,8,Aust-Lofoten vgs
+Tonje ,Sameien ,8,Aust-Lofoten vgs
+Anne ,Balasundaram ,8,Bergen Katedralskole
+Frida ,Breivik ,8,Bergen Katedralskole
+Joachim ,Holden ,8,Brundalen vgs.
+Ask ,Nygaard ,8,Byåsen vgs.
+Hans Kristian ,Strømme ,8,Byåsen vgs.
+Lars Inge ,Olsen ,8,Dahlske vgs.
+Petter Martin ,Sjeldrum ,8,Drammen vgs.
+Kjetil ,Holst Eriksen ,8,Drammen vgs.
+Sigurd Aune ,Borstad ,8,Drammen vgs.
+Anders ,Åsheim ,8,Drammen vgs.
+MIKAEL ,PEDERSEN ,8,Finnfjordbotn vgs.
+Emily ,Melsæther ,8,Fræna vgs.
+Stian B. ,Knutsen ,8,Fyllingsdalen vgs.
+Karoline ,Pedersen ,8,Fyllingsdalen vgs.
+Julie Piil ,Lorentzen ,8,Greåker vgs.
+Anders ,Næsset ,8,Greåker vgs.
+Andreas ,Muri ,8,Greåker vgs.
+ELEV2 ,,8,Hartvig Nissens skole
+Espen Tunhøvd ,Haugan ,8,Jessheim vgs.
+June ,Andersen ,8,Knarvik vgs.
+Anders ,Husebø ,8,Knarvik vgs.
+Ida ,Nes ,8,Kristen vgs. (Trøndelag)
+Kristoffer ,Lossius ,8,Kristen vgs. (Trøndelag)
+Ada ,Jordal ,8,Lambertseter vgs.
+Carl Otto ,Gjelsvik ,8,Lambertseter vgs.
+Anette ,Bakkland ,8,Lambertseter vgs.
+Erik ,Kaspersen ,8,Lambertseter vgs.
+Roar ,Amundsen ,8,Lillehammer vgs.
+Audun ,Bøhlerengen ,8,Lillehammer vgs.
+Lina ,Krogvold ,8,Lørenskog vgs.
+Henriette ,Ellingsrud ,8,Lørenskog vgs.
+Eivind ,Bækkedal ,8,Lørenskog vgs.
+Jørgen Halvorsen ,Nordmoen ,8,Lørenskog vgs.
+Erlend ,Orthe ,8,Lørenskog vgs.
+Håkon Hagen ,Granheim ,8,Lørenskog vgs.
+Ylva ,Anda ,8,Molde vgs.
+Cathrine Aarø ,Fosseide ,8,Molde vgs.
+Elin ,Lajord Oppegård ,8,Nannestad vgs.
+Gullik ,Gundersen ,8,Nesbru vgs.
+Helge ,Ratvik ,8,Nesbru vgs.
+Mikal ,Schultz ,8,Nesbru vgs.
+Hilde ,Kolden ,8,Nord-Gudbrandsdal vgs.
+Geir Arne ,Brustad ,8,Nord-Gudbrandsdal vgs.
+Daniel Pitz ,Jacobsen ,8,Nordstrand vgs.
+Olav Norang ,Stenvik ,8,Nordstrand vgs.
+Eirik Nå ,Aga ,8,Odda vgs.
+Marte Sørtveit ,Mørkve ,8,Odda vgs.
+Robert Westerlund ,Almli ,8,Ole Vig vgs.
+Tord ,Leth-Olsen ,8,Ole Vig vgs.
+Erik ,Solli ,8,Ole Vig vgs.
+Kent Arne ,Bjerke ,8,Oppdal vgs.
+Morten ,Gråberg ,8,Oppdal vgs.
+Kristina ,Brend ,8,Oppdal vgs.
+Benedicte ,Blix ,8,Oslo Handelsgymnasium
+Aleksander ,Lund ,8,Polarsirkelen vgs.
+Pål ,Ibrekk ,8,Persbråten vgs.
+Abnar ,Babek ,8,Porsgrunn vgs.
+Torbjørn Egeland ,Torp ,8,Risør vgs.
+Simen ,Aukland ,8,Risør vgs.
+Anders ,Huseby ,8,Sauda vgs.
+Ingrid ,Halderaker ,8,St. Olav vgs.
+Daranphop ,Hongbua ,8,St. Olav vgs.
+Agaev ,Khagani ,8,St. Olav vgs.
+Thomas ,Helgeland ,8,St. Olav vgs.
+Siri Bjørnsund ,Lønvik ,8,Stabekk vgs.
+Adrian ,Stjern ,8,Stabekk vgs.
+Ingrid Klemp ,Gjertsen ,8,Stabekk vgs.
+Fridtjof Klareng ,Dale ,8,Stabekk vgs.
+Harald ,Skjong ,8,Stabekk vgs.
+Ayan ,Butt ,8,Stabekk vgs.
+Siri Anne ,Stette ,8,Stabekk vgs.
+Mathias ,Arnesen ,8,Thor Heyerdahl vgs.
+Eirin ,Korvald ,8,Thor Heyerdahl vgs.
+Preben ,Lie ,8,Tyrifjord vgs.
+Endre ,Skeie ,8,Øystese gymnas
+Henrik ,Fjellstad ,8,Vågsfjord vgs
+Fredrik ,Andreassen ,8,Vågsfjord vgs
+Janita ,Nordahl ,8,Vågsfjord vgs
+Bergljot ,"Tjønn, ",8,Nadderud vgs

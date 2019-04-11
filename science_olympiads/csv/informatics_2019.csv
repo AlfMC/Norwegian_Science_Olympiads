@@ -1,0 +1,117 @@
+,points,gender,first_name,full_name,school
+0,36,male,Bjørn,Bjørn Haugen,Amalie Skram VGS
+1,36,male,Eik,Eik Hvattum Røgeberg,Elvebakken VGS
+2,36,male,Markus,Markus Lønnemo,Fyrstikkalleen skole
+3,36,male,Patrick,Patrick Snorreson Sletvold,Mailand VGS
+4,36,male,Philip,Philip Bergh Sveen,Nydalen VGS
+5,36,male,Jonas,Jonas Emanuel Gilje,Sandnes VGS
+6,36,male,Håvard,Håvard Krogstie,Trondheim Katedralskole
+7,36,male,Marcel,Marcel Wrzos-Kaminski,Valler VGS
+8,36,male,Jon-Magnus,Jon-Magnus Rosenblad,Valler VGS
+9,35,male,Simon,Simon Andreas Bjørn,Drammen VGS
+10,35,male,Marius,Marius Berdal Gaalaas,Ski VGS
+11,35,male,Erik,Erik Mingjun Ma,Trondheim Katedralskole
+12,34,male,Georgy,Georgy Fomin,Amalie Skram VGS
+13,34,male,Eivind,Eivind Møen,Elvebakken VGS
+14,34,male,Oskar,Oskar Jørgensen,Elvebakken VGS
+15,34,male,Imre,Imre Angelo,Hamar katedralskole
+16,34,male,Petar,Petar Milic,Haram VGS
+17,34,male,Edvard,Edvard Johan Skaarberg Holen,Oslo Katedralskole
+18,33,male,Herman,Herman Brunborg,Bjertnes VGS
+19,33,male,Aslak,Aslak Heimdal,Drammen VGS
+20,33,male,Magnus,Magnus Hellebust Haaland,Fagerlia VGS
+21,33,male,Ola,Ola Flaata,Foss VGS
+22,33,male,Philip,Philip Krogh,Fyrstikkalleen skole
+23,33,male,Jesper,Jesper Norsted,Greåker VGS
+24,33,male,Arthur,Arthur Brunborg,Kristelig Gymnasium
+25,33,male,Håvar,Håvar Hagelund,Kristelig Gymnasium
+26,33,female,Noor,Noor Othmani,Lillestrøm VGS
+27,33,male,Carl,Carl Thyness,Oslo Handelsgymnasium
+28,33,male,Andreas,Andreas Alberg,Oslo Katedralskole
+29,33,female,Sofie,Sofie Bråthen Nybø,Sandnes VGS
+30,33,male,Adrian,Adrian Arthur Andersen,Ski VGS
+31,33,male,Martin,Martin Kristiansen Tømt,Ski VGS
+32,33,male,Joel,Joel Schow,Ski VGS
+33,33,female,Malin,Malin Astrid Larsson,St. Olav VGS
+34,33,male,Oskar,Oskar Feed Jakobsen,Tryggheim Ungdomsskole
+35,33,male,John,John Anfindsen,Tryggheim VGS
+36,33,male,Emil,Emil Wøien Wernøe,Tryggheim VGS
+37,33,male,Sondre,Sondre Aaberg,Valler VGS
+38,32,male,Aksel,Aksel Aase,Amalie Skram VGS
+39,32,male,Kristoffer,Kristoffer Ulvang,Amalie Skram VGS
+40,32,male,Anders,Anders Kristoffersen,Amalie Skram VGS
+41,32,male,Julian,Julian Kragset,Drammen VGS
+42,32,male,Odin,Odin Nikolai Heier,Elvebakken VGS
+43,32,male,Marius,Marius Norbye,Elvebakken VGS
+44,32,male,Audun,Audun Bergan,Elvebakken VGS
+45,32,male,Erlend,Erlend Johansen,Elvebakken VGS
+46,32,male,Joachim,Joachim Maksim,Gjøvik VGS
+47,32,female,Ine,Ine Sofie Lodsby,Hadeland VGS
+48,32,male,Jonah,Jonah Wiecek,Lillestrøm VGS
+49,32,male,Lars,Lars Andreas Melsæter,Molde VGS
+50,32,male,Victor,Victor Iversen,Molde VGS
+51,32,male,Peter,Peter Toyomasu,Nadderud VGS
+52,32,male,Vidar,Vidar Marsh,St. Olav VGS
+53,32,male,Sindre,Sindre Nordtveit,St. Olav VGS
+54,32,male,Thomas,Thomas Thrane,Trondheim Katedralskole
+55,32,male,Niclas,Niclas Kjønsberg,Ullern VGS
+56,32,male,Sander,Sander Bakke,Ullern VGS
+57,32,female,Åsne,Åsne Naadland Holo,Valler VGS
+58,32,male,Oscar,Oscar Sebastian Thomas,Valler VGS
+59,32,male,Ingrid,Ingrid Marie Wølneberg,Valler VGS
+60,31,male,Dennis,Dennis Eliassen,Amalie Skram VGS
+61,31,male,Philip,Philip Gundersen,Drammen VGS
+62,31,male,Stefan,Stefan Plessas,Elvebakken VGS
+63,31,female,Hedvig,Hedvig Margrete Venbakken,Elvebakken VGS
+64,31,male,Olav,Olav Hellebust Haaland,Fagerlia VGS
+65,31,male,Skage,Skage Reistad,Fyrstikkalleen skole
+66,31,male,Viktor,Viktor Hasle,Fyrstikkalleen skole
+67,31,female,Nancy,Nancy Krone,Greveskogen VGS
+68,31,male,Rico,Rico Soleng,Kongsbakken VGS
+69,31,male,William,William Resvoll Skaug,Lambertseter VGS
+70,31,male,Trym,Trym Ramberg,Nesodden VGS
+71,31,male,Estil,Estil Krågebakk,Nydalen VGS
+72,31,male,Marcus,Marcus Benrud,Oslo Handelsgymnasium
+73,31,male,Johannes,Johannes Løken,Oslo Katedralskole
+74,31,male,Knut,Knut Selstad,Rosenvilde VGS
+75,31,male,Wiktor,Wiktor Kaluza,St. Olav VGS
+76,31,male,Viljar,Viljar Gjerstad,Stavanger Katedralskole
+77,31,male,Tor,Tor Håkon Reyes Aasebø,Stavanger Katedralskole
+78,31,male,Trygve,Trygve Tegnander,Trondheim Katedralskole
+79,31,male,Eivind,Eivind Sunde Eriksen,Valler VGS
+80,30,male,Fredrik,Fredrik Helland,Amalie Skram VGS
+81,30,male,Ingrid,Ingrid Husevåg-Kristensen,Amalie Skram VGS
+82,30,male,Mikal,Mikal Drivenes,Amalie Skram VGS
+83,30,female,Julie,Julie Landaas,Amalie Skram VGS
+84,30,male,Ole,Ole Barstad,Amalie Skram VGS
+85,30,male,Henrik,Henrik Moe Wæhre,Ås VGS
+86,30,male,Sindre,Sindre Skagestad,Drammen VGS
+87,30,male,Fredrik,Fredrik Tveit,Drammen VGS
+88,30,male,Isak,Isak Røysamb Hjeltnes,Foss VGS
+89,30,male,Truls,Truls Vidnes,Foss VGS
+90,30,male,Junus,Junus Sefa,Fyrstikkalleen skole
+91,30,male,Brage,Brage Imset,Greveskogen VGS
+92,30,male,Peter,Peter Johan Flått-Bjørnstad,Greveskogen VGS
+93,30,male,Halvor,Halvor Øverby,Greveskogen VGS
+94,30,male,Mads,Mads Dystvold,Hamar katedralskole
+95,30,female,Maren,Maren Grindal,Hamar katedralskole
+96,30,male,Olaf,Olaf Rosendahl,KKG
+97,30,male,Iver,Iver Sande,Kristelig Gymnasium
+98,30,male,Johnny,Johnny Nguyen,Lillestrøm VGS
+99,30,male,Emil,Emil Holt Hulsman,Molde VGS
+100,30,male,Lars,Lars Selbekk,Molde VGS
+101,30,male,Anders,Anders Hestad,Molde VGS
+102,30,male,Frederik,Frederik Farstad,Nadderud VGS
+103,30,male,Kristoffer,Kristoffer Arlind,Nesodden VGS
+104,30,female,Emilie,Emilie Bye,Nesodden VGS
+105,30,male,Mathias,Mathias Øivind Andresen,Nydalen VGS
+106,30,andy,Yan,Yan Senko,Oslo Handelsgymnasium
+107,30,female,Lise,Lise Birgitte Ullevålseter,Oslo Katedralskole
+108,30,male,Bjørn,Bjørn Dreyer,Oslo Katedralskole
+109,30,male,Elias,Elias Wagnerberger,Rosenvilde VGS
+110,30,female,Benedikte,Benedikte Bitnes,Sandnes VGS
+111,30,male,Eirik,Eirik Mathias Silnes,Ski VGS
+112,30,male,Andreas,Andreas Stapnes,St. Olav VGS
+113,30,male,Torkel,Torkel Kallelid,Stavanger Katedralskole
+114,30,male,John,John Ravndal,Tryggheim VGS
+115,30,male,Aksel,Aksel Stenvold,Ullern VGS

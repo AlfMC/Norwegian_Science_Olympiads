@@ -1,0 +1,374 @@
+,points,gender,first_name,full_name,school
+0,23.0,male,Jonas,Jonas Kjellstadli,Arendal vgs.
+1,20.0,male,Martin,Martin Ringdal,Lambertseter vgs.
+2,20.0,male,Marius,Marius Thoresen,Nes vgs.
+3,19.0,male,John,John Berntsen,Heimdal vgs.
+4,18.0,male,Kjetil,Kjetil Holst Eriksen,Drammen vgs
+5,17.0,male,Espen,Espen Nielsen,Adolf Øien skole
+6,17.0,male,Erlend,Erlend Gjesdal,Bergens Handelsgymnasium
+7,17.0,male,Rune,Rune Stana,Odda vgs.
+8,17.0,male,Øyvind,Øyvind Johsen,Oslo Katedralskole
+9,17.0,male,Arnstein,Arnstein Vestre,Spjelkavik vgs.
+10,17.0,male,Vidar,Vidar Hodneland,Stord vgs.
+11,16.0,male,Vegard,Vegard Hornnes,Adolf Øien skole
+12,16.0,male,Kristoffer,Kristoffer Gryte,Hafstad vgs.
+13,16.0,male,Sverre,Sverre Gulbrandsen,Ole Vig vgs.
+14,16.0,male,Christian,Christian Aarset,Valler vgs.
+15,16.0,male,Christian,Christian Finstad,Vågsfjord vgs
+16,15.0,male,Robert,Robert Hagala,Bergen Katedralskole
+17,15.0,male,Jørgen,Jørgen Finvik,Fauske vgs.
+18,15.0,male,Henrik,Henrik Olsen,Heimdal vgs.
+19,15.0,male,Sindre,Sindre Velle,Kopervik vgs.
+20,15.0,male,Hans,Hans Mathisen,Sandefjord vgs.
+21,15.0,male,Johan,Johan Halseth,Steinkjer vgs.
+22,15.0,male,Sondre,Sondre Nesset,Verdal vgs.
+23,14.5,male,Anders,Anders Egeli,Sandnes vgs.
+24,14.0,male,Elias,Elias Bjørne,Fagerborg vgs.
+25,14.0,male,Jonas,Jonas Nouri,Fagerborg vgs.
+26,14.0,male,Marius,Marius Utheim,Finnfjordbotn vgs.
+27,14.0,male,Frederik,Frederik Kristoffersen,Fredrik II vgs.
+28,14.0,male,Eirik,Eirik Legernæs,Lillestrøm vgs.
+29,14.0,male,Olav,Olav Alstad,Ole Vig vgs.
+30,14.0,male,Mahir,Mahir Senturk,Oppdal vgs.
+31,14.0,female,Heidi,Heidi Kleveland,Skeisvang vgs.
+32,14.0,male,David,David Kleiven,Skeisvang vgs.
+33,14.0,male,Bernt,Bernt Nødland,Sandnes vgs.
+34,14.0,male,Peter,Peter Kristoffersen,Sandnes vgs.
+35,13.0,male,Kasper,Kasper Linnestad,Elvebakken vgs.
+36,13.0,male,Sondre,Sondre Andenes,Firda vgs.
+37,13.0,male,Jonas,Jonas van den Brink,Frogn vgs
+38,13.0,female,Marie,Marie Hexeberg,Lillestrøm vgs.
+39,13.0,male,Yngve,Yngve Guttormsen,Nordkjosbotn vgs.
+40,13.0,male,Hans,Hans Heimro,Nordkjosbotn vgs.
+41,13.0,male,Anders,Anders Solberg,Notodden vgs.
+42,13.0,female,Guri,Guri Mjøen,Orkdal vgs.
+43,13.0,male,Benjamin,Benjamin Uhlig,Oslo Katedralskole
+44,13.0,male,Tobias,Tobias Grøsfjeld,Porsgrunn vgs.
+45,13.0,female,Åshild,Åshild Telle,St. Olav vgs.
+46,13.0,male,Andre,Andre Laleng,Stavanger Katedralskole
+47,13.0,male,Rasmus,Rasmus Riise,Strinda vgs.
+48,13.0,male,Per,Per Haugedal,Tryggheim vgs
+49,13.0,male,Karl,Karl Holten,Valler vgs.
+50,13.0,male,Ingrid,Ingrid Kjetså,Sandnes vgs.
+51,12.5,male,Sindre,Sindre Aalen,Knarvik vgs.
+52,12.5,male,Sondre,Sondre Svarverud,Lillehammer vgs.
+53,12.0,male,Felix,Felix Vig,Eikeli vgs.
+54,12.0,male,Michael,Michael Stremme,Flekkefjord vgs./Trellebakken
+55,12.0,female,Ida,Ida Bruåsdal,Hafstad vgs.
+56,12.0,male,Anders,Anders Strand,Levanger vgs.
+57,12.0,male,Viktor,Viktor Andersen,Lillestrøm vgs.
+58,12.0,male,Torbjørn,Torbjørn Kruke,Malvik vgs.
+59,12.0,male,Daan,Daan Wesselink,Mosjøen vgs.
+60,12.0,female,Stine,Stine Husaas,Ole Vig vgs.
+61,12.0,female,Marianne,Marianne Fjelberg,Oslo Handelsgymnasium
+62,12.0,male,Wilhelm,Wilhelm Holmen,Oslo Katedralskole
+63,12.0,male,Henrik,Henrik Sveinsson,Oslo Katedralskole
+64,12.0,male,Håkon,Håkon Treider,Oslo Katedralskole
+65,12.0,male,Dag,Dag Ki,Oslo Katedralskole
+66,12.0,female,Beate,Beate Norheim,Skien vgs.
+67,12.0,male,Vemund,Vemund Nilsen,Stavanger Katedralskole
+68,12.0,male,Harald,Harald Myklebust,Strinda vgs.
+69,12.0,male,Eivind,Eivind Schneider,Tyrifjord vgs.
+70,12.0,male,Raymond,Raymond Selvik,U.Pihls skole
+71,12.0,male,Martin,Martin Håberg,Vestvågøy vgs.
+72,12.0,female,Ida,Ida Kinderås,Vågsfjord vgs
+73,12.0,female,Marthe,Marthe Bjerkåsholmen,Nesbru vgs.
+74,12.0,male,Christoffer,Christoffer Fjeldstad,Nesbru vgs.
+75,11.5,female,Hanne,Hanne Brock,Bergens Handelsgymnasium
+76,11.5,female,Martina,Martina Bovim,Byåsen vgs.
+77,11.5,male,Espen,Espen Waldeland,Sandnes vgs.
+78,11.0,male,Dhanushan,Dhanushan Dhayalan,Bergen Katedralskole
+79,11.0,female,Solveig,Solveig Hellan,Bergen Katedralskole
+80,11.0,male,Eivind,Eivind Kvitstein,Dahlske vgs.
+81,11.0,female,Helene,Helene Myre,Danielsen vgs.
+82,11.0,male,Bjørn,Bjørn Hysing,Firda vgs.
+83,11.0,male,Runar,Runar Bergheim Olsen,Flora vgs.
+84,11.0,male,Aleksander,Aleksander Brzyski,Gjøvik vgs.
+85,11.0,male,Jan,Jan Langeland,Hafstad vgs.
+86,11.0,male,Andreas,Andreas Øyehaug,Høyanger vgs.
+87,11.0,male,George,George Mushore,Lambertseter vgs.
+88,11.0,male,Paul-Johnny,Paul-Johnny Reckmann,Mandal vgs.
+89,11.0,male,Eirik,Eirik Fallrø,Nøtterøy vgs.
+90,11.0,male,Fabian,Fabian Steinhovden,Nøtterøy vgs.
+91,11.0,female,Linh-Phuong,Linh-Phuong Do,Nøtterøy vgs.
+92,11.0,female,Elisabeth,Elisabeth Elje,Odda vgs.
+93,11.0,male,Vegard,Vegard Hegsethrø,Ole Vig vgs.
+94,11.0,andy,Haichen,Haichen Baglo,Ole Vig vgs.
+95,11.0,male,Mats,Mats Berg,Rud vgs.
+96,11.0,male,David,David Leiva,St. Hallvard vgs.
+97,11.0,male,Jakob,Jakob Oftebro,St. Hallvard vgs.
+98,11.0,female,Cecilie,Cecilie Leidland,St. Olav vgs.
+99,11.0,male,Morten,Morten Lian,Strinda vgs.
+100,11.0,male,Olav,Olav Aartun,Strinda vgs.
+101,11.0,male,Martin,Martin Megård,Vågsfjord vgs
+102,11.0,male,Audun,Audun Skjærvold,Lillehammer vgs.
+103,11.0,male,Ingvild,Ingvild Ruud,Drammen vgs
+104,10.5,male,Lars,Lars Holme,Firda vgs.
+105,10.5,female,Marthe,Marthe Thorsø,Sandsli vgs.
+106,10.5,male,Richard,Richard Melkersen,Tyrifjord vgs.
+107,10.5,male,Robert,Robert Fauli,Nesbru vgs.
+108,10.0,unknown,Bakkalar,Bakkalar Vafa,Bergen Katedralskole
+109,10.0,male,Christian,Christian Isaksen,Danielsen vgs.
+110,10.0,male,Håvard,Håvard Frøysa,Danielsen vgs.
+111,10.0,male,Ole,Ole Brennsæter,Eidsvoll vgs.
+112,10.0,female,Kristin,Kristin Selmer,Foss vgs.
+113,10.0,female,Solveig,Solveig Engebretsen,Foss vgs.
+114,10.0,male,Bjørn,Bjørn Evensen,Gjøvik vgs.
+115,10.0,male,Tor,Tor Melland Rødde,Melhus vgs.
+116,10.0,female,Johanne,Johanne Jansen,Nes vgs.
+117,10.0,male,Andreas,Andreas Lindstrøm,Odda vgs.
+118,10.0,female,Solveig,Solveig Skogan,Ole Vig vgs.
+119,10.0,male,Henrik,Henrik Moen,Orkdal vgs.
+120,10.0,male,August,August Kvernmo,Oslo Katedralskole
+121,10.0,male,Andreas,Andreas Lutro,Persbråten vgs
+122,10.0,female,Ruth,Ruth Fevang,Sandefjord vgs.
+123,10.0,female,Myrth,Myrth Andresen,Sandefjord vgs.
+124,10.0,male,Hallvard,Hallvard Myklestad,Sandsli vgs.
+125,10.0,male,Mahmoud,Mahmoud Abukar,Sola vgs.
+126,10.0,female,Silje,Silje Høiland,Sola vgs.
+127,10.0,male,Tryg-Arne,Tryg-Arne Løkkeborg,Spjelkavik vgs.
+128,10.0,male,Krister,Krister Moberg,St. Olav vgs.
+129,10.0,female,Anne,Anne Haaland,St. Olav vgs.
+130,10.0,male,Andreas,Andreas Grønlien,Bodø vgs
+131,10.0,male,Marius,Marius Kjellqvist,Sandnes vgs.
+132,10.0,male,Martin,Martin Macdonald,Nesbru vgs.
+133,9.5,male,Nirosh,Nirosh Ranjan,Elvebakken vgs.
+134,9.5,male,Knut,Knut Austbø,Nord-Østerdal VGS
+135,9.5,female,Ariel,Ariel Nyembwe,Oppdal vgs.
+136,9.5,male,David,David Kendel,Tyrifjord vgs.
+137,9.5,female,Kristin,Kristin Drahus,Nesbru vgs.
+138,9.5,male,Brynjar,Brynjar Bakken,Lillehammer vgs.
+139,9.5,male,Simen,Simen Bredvold,Lillehammer vgs.
+140,9.5,male,Erik,Erik Rybakken,Lillehammer vgs.
+141,9.0,male,Eirik,Eirik Hanssen,Asker vgs.
+142,9.0,female,Andrea,Andrea Haugstøyl,Asker vgs.
+143,9.0,female,Hege,Hege Lundeby,Asker vgs.
+144,9.0,male,Håkon,Håkon Nævdal,Asker vgs.
+145,9.0,male,Håvard,Håvard Østensen,Bergen Katedralskole
+146,9.0,male,Peder,Peder Kleppe,Bergens Handelsgymnasium
+147,9.0,male,Andreas,Andreas Norberg,Byåsen vgs.
+148,9.0,male,Erlend,Erlend Brevik,Danielsen vgs.
+149,9.0,male,Fedor,Fedor Fadeev,Elvebakken vgs.
+150,9.0,male,Lars,Lars Strømsnes,Fauske vgs.
+151,9.0,male,Vegard,Vegard Harper,Gol vgs.
+152,9.0,female,Inger,Inger Flatla,Hadeland vgs.
+153,9.0,male,Anders,Anders Kittelsrud,Hadeland vgs.
+154,9.0,male,Anders,Anders Lauritzen,Lillehammer vgs.
+155,9.0,male,Kristoffer,Kristoffer Ellingsen,Lillestrøm vgs.
+156,9.0,male,Øyvind,Øyvind Selseng,Meråker vgs
+157,9.0,male,Daniel,Daniel Altmann,Meråker vgs
+158,9.0,male,Hallvard,Hallvard Fjell,Norges Toppidrettsgymnas
+159,9.0,male,Lars-Erik,Lars-Erik Kasin,Notodden vgs.
+160,9.0,unknown,Delian,Delian Amit,Oslo Katedralskole
+161,9.0,male,Yngve,Yngve Skaalerud,Oslo Katedralskole
+162,9.0,male,Markus,Markus Skadal,Sandsli vgs.
+163,9.0,male,Gunnar,Gunnar Hofsmo,Selbu vgs.
+164,9.0,male,Håkon,Håkon Klausen,Skeisvang vgs.
+165,9.0,male,Sondre,Sondre Tofte,Sola vgs.
+166,9.0,female,Åshild,Åshild Dybdal,Trondheim Katedralskole
+167,9.0,male,Andreas,Andreas Kittilsland,Tyrifjord vgs.
+168,9.0,male,Ole,Ole Risa,Vestborg vgs
+169,9.0,male,Jarl,Jarl Samseth,Vestborg vgs
+170,9.0,male,Rune,Rune Holmgren,Vågsfjord vgs
+171,8.5,male,Nikolai,Nikolai Krill,Byåsen vgs.
+172,8.5,female,Kjersti,Kjersti Nygaard,Kristiansand Katedralskole
+173,8.5,male,Aron,Aron Nordberg,Rælingen vgs.
+174,8.5,female,Lilly,Lilly Steffensen,Nesbru vgs.
+175,8.5,male,Emil,Emil Aasen,Lillehammer vgs.
+176,8.0,male,Magnus,Magnus Øksenholt,Arendal vgs.
+177,8.0,male,André,André Duus,Arendal vgs.
+178,8.0,male,Simen,Simen Braaten,Asker vgs.
+179,8.0,male,Øystein,Øystein Helseth,Asker vgs.
+180,8.0,male,Eirik,Eirik Andersen,Askøy vgs
+181,8.0,male,Henrik,Henrik Johannessen,Askøy vgs
+182,8.0,male,Karoline,Karoline Palmer,Berg vgs.
+183,8.0,male,Simon,Simon Berg,Bryne vgs.
+184,8.0,female,Julianne,Julianne Øien,Byåsen vgs.
+185,8.0,male,Vegard,Vegard Haus Lien,Byåsen vgs.
+186,8.0,male,Eirik,Eirik Knævelsrud,Byåsen vgs.
+187,8.0,male,Lars,Lars Brusletto,Eikeli vgs.
+188,8.0,male,Lars,Lars Jahr,Eikeli vgs.
+189,8.0,male,Ole,Ole Myrold,Eikeli vgs.
+190,8.0,female,Ida,Ida Hansen,Fagerlia vgs. AF
+191,8.0,male,Michal,Michal Sperre,Fagerlia vgs. AF
+192,8.0,male,Magnus,Magnus Halvorsen,Fauske vgs.
+193,8.0,female,Irene,Irene Bakken,Frogn vgs
+194,8.0,male,Eivind,Eivind Dalevold,Gol vgs.
+195,8.0,male,Nils,Nils Sveingard,Gol vgs.
+196,8.0,male,Marius,Marius Myhre,Hadeland vgs.
+197,8.0,male,Lars,Lars Schiøtz,Hadeland vgs.
+198,8.0,male,Ola,Ola Grøneng,Hafstad vgs.
+199,8.0,female,Lisbeth,Lisbeth Haugsvær,Knarvik vgs.
+200,8.0,male,Jacob,Jacob Brekke,Lambertseter vgs.
+201,8.0,male,Erlend,Erlend Rudsar,Lillestrøm vgs.
+202,8.0,male,Laurens,Laurens Bijl,Lillestrøm vgs.
+203,8.0,male,Joakim,Joakim Pettersen,Malvik vgs.
+204,8.0,female,Hilde,Hilde Askildsen,Mandal vgs.
+205,8.0,male,Kenneth,Kenneth Kristensen,Mosjøen vgs.
+206,8.0,male,Vegard,Vegard Antun,Nes vgs.
+207,8.0,male,Martin,Martin Melhus,Nes vgs.
+208,8.0,female,Ane,Ane Ytterhaug,Nord-Østerdal VGS
+209,8.0,male,Kasper,Kasper Bjerke,Nøtterøy vgs.
+210,8.0,male,Morten,Morten Bakketun,Odda vgs.
+211,8.0,male,Trond,Trond Korssund,Odda vgs.
+212,8.0,male,Tor,Tor Sekse,Odda vgs.
+213,8.0,female,Silje,Silje Rosvold,Ole Vig vgs.
+214,8.0,male,Truls,Truls Hamland,Ole Vig vgs.
+215,8.0,male,Bjørn,Bjørn Solem,Ole Vig vgs.
+216,8.0,male,Eirik,Eirik Smolan,Orkdal vgs.
+217,8.0,male,Joakim,Joakim Holtan,Orkdal vgs.
+218,8.0,female,Hanna,Hanna Linge,Orkdal vgs.
+219,8.0,male,Sayanthan,Sayanthan Kamalanathan,Oslo Handelsgymnasium
+220,8.0,male,Markus,Markus Tufte-Johnsen,Oslo Handelsgymnasium
+221,8.0,male,Simen,Simen Borgås,Oslo Handelsgymnasium
+222,8.0,male,Jon,Jon Unander,Oslo Handelsgymnasium
+223,8.0,female,Marie,Marie Hernes,Oslo Katedralskole
+224,8.0,male,Håvard,Håvard Svoen,Persbråten vgs
+225,8.0,male,Sondre,Sondre Wenaas,Porsgrunn vgs.
+226,8.0,male,Stein,Stein Moi,Sola vgs.
+227,8.0,male,Kai-Syver,Kai-Syver Byberg,Sola vgs.
+228,8.0,male,Martin,Martin Tveten,St. Hallvard vgs.
+229,8.0,male,Kasper,Kasper Skramstad,St. Olav vgs.
+230,8.0,male,Trond,"Trond Al-Kasim,Moen",St. Olav vgs.
+231,8.0,male,Andreas,Andreas Nesse,Tryggheim vgs
+232,8.0,male,Vegard,Vegard Josvanger,U.Pihls skole
+233,8.0,male,Jørn,Jørn Efteland,U.Pihls skole
+234,8.0,male,Håkon,Håkon Mork,Valler vgs.
+235,8.0,female,Helene,Helene Kaltenborn,Vestvågøy vgs.
+236,8.0,male,Sissel-Johanne,Sissel-Johanne Aspdal,Vågsfjord vgs
+237,8.0,female,Christine,Christine Iversen,Vågsfjord vgs
+238,8.0,male,Stian,Stian Johansen,Vågsfjord vgs
+239,8.0,unknown,Anonym,Anonym Anonym 2,Bodø vgs
+240,7.5,female,Katarina,Katarina Swendgaard,Malvik vgs.
+241,7.5,male,Henrik,Henrik Thoresen,Nord-Østerdal VGS
+242,7.5,male,Øystein,Øystein Brauti,Steinkjer vgs.
+243,7.0,male,Einar,Einar Agdestein,Asker vgs.
+244,7.0,male,Fredrik,Fredrik Thorsen,Asker vgs.
+245,7.0,male,Emil,Emil Johansen,Askøy vgs
+246,7.0,male,Khiem,Khiem Tran,Bergen Katedralskole
+247,7.0,male,Trygve,Trygve Wiig,Bergen Katedralskole
+248,7.0,male,Kristian,Kristian Melting,Byåsen vgs.
+249,7.0,male,Frederik,Frederik Tegnander,Byåsen vgs.
+250,7.0,male,Tom,Tom Lundamo,Eikeli vgs.
+251,7.0,male,Jacoban,Jacoban Srisgantharajah,Elvebakken vgs.
+252,7.0,male,Aleksander,Aleksander Gorski,Elvebakken vgs.
+253,7.0,male,Lars,Lars Reiersen,Fagerborg vgs.
+254,7.0,male,Vegard,Vegard Larsen,Fauske vgs.
+255,7.0,male,Jonas,Jonas Nilsen,Fauske vgs.
+256,7.0,male,Emil,Emil Hansen,Fauske vgs.
+257,7.0,male,Mikkel,Mikkel Brekke,Foss vgs.
+258,7.0,female,Kjersti,Kjersti Berg,Gjøvik vgs.
+259,7.0,male,Bendik,Bendik Nybakk Thorsæter,Gjøvik vgs.
+260,7.0,male,Sebastian,Sebastian Langfjærran,Gjøvik vgs.
+261,7.0,male,Sindre,Sindre Jørgensen,Hafstad vgs.
+262,7.0,female,Lisa,Lisa Slinning,Kopervik vgs.
+263,7.0,male,Andreas,Andreas Saltveit,Kopervik vgs.
+264,7.0,male,Petter,Petter Astrup,Lambertseter vgs.
+265,7.0,male,Yaroslav,Yaroslav Nikonov,Lillestrøm vgs.
+266,7.0,female,Eva,Eva Fritzell,Lillestrøm vgs.
+267,7.0,female,Anna,Anna Engen,Mandal vgs.
+268,7.0,male,John,John Huynh Minh,Melhus vgs.
+269,7.0,male,Trond,Trond Snekvik,Melhus vgs.
+270,7.0,male,Erlend,Erlend Forbord,Meråker vgs
+271,7.0,male,Philip,Philip Wehinger,Nes vgs.
+272,7.0,male,Karl,Karl Wang,Nes vgs.
+273,7.0,male,Markus,Markus Molander,Nes vgs.
+274,7.0,unknown,Kochar,Kochar Nazari,Nes vgs.
+275,7.0,female,Nina,Nina Løkken,Nord-Østerdal VGS
+276,7.0,male,Håkon,Håkon Torkildsen,Nord-Østerdal VGS
+277,7.0,male,Tov-Christian,Tov-Christian Isaksen,Notodden vgs.
+278,7.0,female,Mina,Mina Gotteberg,Nøtterøy vgs.
+279,7.0,male,Dag,Dag Paulsen,Nøtterøy vgs.
+280,7.0,female,Annhild,Annhild Meling,Odda vgs.
+281,7.0,male,Martin,Martin Augdal,Ole Vig vgs.
+282,7.0,male,Levi,Levi Sandblost,Ole Vig vgs.
+283,7.0,female,Linn,Linn Lien Lømo,Oppdal vgs.
+284,7.0,female,Mona,Mona Øyen,Orkdal vgs.
+285,7.0,male,Victor,Victor Fielding,Orkdal vgs.
+286,7.0,female,Ida,Ida Rist-Christensen,Oslo Handelsgymnasium
+287,7.0,female,Emilie,Emilie Aabakken,Oslo Handelsgymnasium
+288,7.0,male,Akram,Akram Nahiry,Oslo Handelsgymnasium
+289,7.0,male,Saurav,Saurav Sharma,Persbråten vgs
+290,7.0,male,Stian,Stian Svendby,Persbråten vgs
+291,7.0,male,Øyvind,Øyvind Lavoll,Sandefjord vgs.
+292,7.0,male,Kristoffer,Kristoffer Haugland,Sandsli vgs.
+293,7.0,male,Eivind,Eivind Dalsegg,"Setesdal vgs., avd. Hornnes"
+294,7.0,male,Einar,Einar Martinsen,Skeisvang vgs.
+295,7.0,female,Rikke,Rikke Svendsen,St. Olav vgs.
+296,7.0,male,Tor,Tor Raanaas,St. Olav vgs.
+297,7.0,female,Lene,Lene Strandvik,St. Olav vgs.
+298,7.0,male,Erik,Erik Sivertsen,St. Olav vgs.
+299,7.0,female,Mari,Mari Tveit,St. Olav vgs.
+300,7.0,male,Jan,"Jan Meling, Hammer",St. Olav vgs.
+301,7.0,male,Tomas,"Tomas Choat,Royal",St. Olav vgs.
+302,7.0,male,Brage,Brage Marvik,Stabekk vgs.
+303,7.0,male,Per,Per Eskås,Stabekk vgs.
+304,7.0,male,Stian,Stian Kinnunen,Steinkjer vgs.
+305,7.0,male,Rafid,Rafid Hoda,Trondheim Katedralskole
+306,7.0,male,Bart,Bart Blokkland,Trondheim Katedralskole
+307,7.0,female,Johanne,Johanne Ellingsen,Tvedestrand vgs.
+308,7.0,male,Benjamin,Benjamin Andersen,Tyrifjord vgs.
+309,7.0,male,Øystein,Øystein Bjelland,U.Pihls skole
+310,7.0,male,Young,Young Lim,Valler vgs.
+311,7.0,male,Even,Even Hansen,Valler vgs.
+312,7.0,female,Karin,Karin Kjelstrup,Vestvågøy vgs.
+313,7.0,male,Edvarda,Edvarda Salomonsen,Vestvågøy vgs.
+314,7.0,female,Ida,Ida Nordahl,Vestvågøy vgs.
+315,7.0,male,Adam,Adam Finstad,Vågsfjord vgs
+316,7.0,female,Katinka,Katinka Helness,Bodø vgs
+317,7.0,male,Knut,Knut Henriksen,Drammen vgs
+318,7.0,male,Sigurd,Sigurd Borstad,Drammen vgs
+319,7.0,male,Anders,Anders Åsheim,Drammen vgs
+320,6.5,male,Eyvind,Eyvind Kilvik,Elvebakken vgs.
+321,6.5,male,Jens,Jens Gule,Firda vgs.
+322,6.5,male,Eirik,Eirik Kaale,Firda vgs.
+323,6.5,male,Erik,Erik Burton,Nesbru vgs.
+324,6.0,male,Erik,Erik Fluge,Askøy vgs
+325,6.0,female,Halldis,Halldis Krossøy,Bergen Katedralskole
+326,6.0,male,Petter,Petter Bråten,Bryne vgs.
+327,6.0,male,Torbjørn,Torbjørn Helmersen,Byåsen vgs.
+328,6.0,female,Lone,Lone Jevne,Dahlske vgs.
+329,6.0,male,Nils,Nils Foldal,Eikeli vgs.
+330,6.0,male,Kristian,Kristian Holmsen,Eikeli vgs.
+331,6.0,male,Aleksi,Aleksi Luukkonen,Elvebakken vgs.
+332,6.0,male,Adnan,Adnan Alisa,Elvebakken vgs.
+333,6.0,male,Asbjørn,Asbjørn Nordrum,Gjøvik vgs.
+334,6.0,female,Kjersti,Kjersti Herberg,Gjøvik vgs.
+335,6.0,male,Ole,Ole Grøv,Gol vgs.
+336,6.0,male,Kjetil,Kjetil Kildal,Hadeland vgs.
+337,6.0,male,Kenny,Kenny Hoti,Hafstad vgs.
+338,6.0,male,Dennis,Dennis Madsen,Lillestrøm vgs.
+339,6.0,male,Erlend,Erlend Sigholt,Malvik vgs.
+340,6.0,male,Anthony,Anthony Sebergsen,Meråker vgs
+341,6.0,female,Eun,Eun Choe,Odda vgs.
+342,6.0,male,Håvard,Håvard Haustveit,Odda vgs.
+343,6.0,unknown,Phattharaphorn,Phattharaphorn Tjelle,Odda vgs.
+344,6.0,female,Eirin,Eirin Revhaug,Ole Vig vgs.
+345,6.0,male,Martin,Martin Okstad,Orkdal vgs.
+346,6.0,female,Nora,Nora Eide,Oslo Handelsgymnasium
+347,6.0,male,Knut,Knut Tyse,Oslo Katedralskole
+348,6.0,male,Stian,Stian Eidem,Selbu vgs.
+349,6.0,male,Frode,Frode Gresseth,Selbu vgs.
+350,6.0,female,Hilde,Hilde Rønsberg,Selbu vgs.
+351,6.0,male,Ingvild,Ingvild Stokke,Selbu vgs.
+352,6.0,male,Aslak,Aslak Bergersen,Skien vgs.
+353,6.0,male,Lars,Lars Ørland,Sola vgs.
+354,6.0,female,Gina,Gina Sjursen,Sola vgs.
+355,6.0,male,Marius,Marius Kurzok,St. Olav vgs.
+356,6.0,male,Kristian,Kristian Ingebretsen,St. Olav vgs.
+357,6.0,female,Serine,Serine Jonassen,St. Olav vgs.
+358,6.0,female,Anne,Anne Pedersen,St. Olav vgs.
+359,6.0,male,Jens,Jens Meisingset,Stabekk vgs.
+360,6.0,male,Ingrid,Ingrid Kårstad,Stabekk vgs.
+361,6.0,male,Bertil,Bertil Ekern,Stabekk vgs.
+362,6.0,male,Andreas,Andreas Pedersen,Strinda vgs.
+363,6.0,male,Sondre,Sondre Strømdal,Strinda vgs.
+364,6.0,male,Eirik,Eirik Øvregård,Vardafjell vgs.
+365,6.0,male,Tommy,Tommy Kristiansen,Vardafjell vgs.
+366,6.0,male,Gunnar,Gunnar Andersen,Vågsfjord vgs
+367,6.0,female,Marthe,Marthe Nilsson,Vågsfjord vgs
+368,6.0,male,Joakim,Joakim Skarding,Vågsfjord vgs
+369,6.0,male,Jan,Jan Mortensen,Bodø vgs
+370,6.0,male,Karl,Karl Medby,Bodø vgs
+371,6.0,male,Jonas,Jonas Gieselmann,Bodø vgs
+372,6.0,male,Tobias,Tobias Aasmoe,Bodø vgs
