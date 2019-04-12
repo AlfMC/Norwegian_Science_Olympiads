@@ -1,6 +1,5 @@
-import pandas as pd
 import gender_guesser_mod.detector as gg
-import math
+
 
 _detector = gg.Detector(case_sensitive=False)
 

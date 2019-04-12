@@ -52,7 +52,7 @@ def write_math(years=MATH_YEARS, print_unknown_names=False):
     unknown_names = []
     for year in years:
         df = extract_informatics(year)
-        df.to_csv(f"csv/mathematics_{year}.csv", index="False", encoding="utf-8")
+        df.to_csv(f"csv/mathematics_{year}.csv", index=False, encoding="utf-8")
         unknown_names.extend(op.get_unknown_names(df))
         print(f"Wrote year {year} in mathematics.")
     if print_unknown_names:
@@ -82,7 +82,7 @@ def write_chemistry(years=CHEMISTRY_YEARS, print_unknown_names=False):
     for year in years:
         print(f"Wrote year {year} in chemistry.")
         df = extract_chemistry(year)
-        df.to_csv(f"csv/chemistry_{year}.csv", index="False", encoding="utf-8")
+        df.to_csv(f"csv/chemistry_{year}.csv", index=False, encoding="utf-8")
         unknown_names.extend(op.get_unknown_names(df))
     if print_unknown_names:
         for name in set(unknown_names):
@@ -110,7 +110,7 @@ def write_physics(years=PHYSICS_YEARS, print_unknown_names=False):
     for year in years:
         print(f"Wrote year {year} in physics.")
         df = extract_physics(year)
-        df.to_csv(f"csv/physics_{year}.csv", index="False", encoding="utf-8")
+        df.to_csv(f"csv/physics_{year}.csv", index=False, encoding="utf-8")
         unknown_names.extend(op.get_unknown_names(df))
     if print_unknown_names:
         print("Names with unknown gender:")
@@ -140,7 +140,7 @@ def write_informatics(years=INFORMATICS_YEARS, print_unknown_names=False):
     unknown_names = []
     for year in years:
         df = extract_informatics(year)
-        df.to_csv(f"csv/informatics_{year}.csv", index="False", encoding="utf-8")
+        df.to_csv(f"csv/informatics_{year}.csv", index=False, encoding="utf-8")
         unknown_names.extend(op.get_unknown_names(df))
         print(f"Wrote year {year} in informatics.")
     if print_unknown_names:

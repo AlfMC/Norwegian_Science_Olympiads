@@ -1,51 +1,51 @@
-,points,gender,first_name,full_name,school
-0,97,male,Gunnar,Gunnar Grotmol,Langhaugen skole
-1,97,andy,Weicheng,Weicheng Hua,Lillestrøm vgs.
-2,97,male,Carl,Carl Andresen,Ullern vgs
-3,94,male,Sturla,Sturla Frydenlund,Drammen vgs.
-4,91,male,Johan,Johan Lokna,St. Olav vgs. Stavanger
-5,89,male,Erling,Erling Tønseth Svela,Bryne vgs.
-6,89,male,Brian,Brian Juvik,Porsgrunn vgs.
-7,88,male,Ask,Ask Løite,Blindern vgs.
-8,88,male,Bendik,Bendik Sannes,Kristelig gymnasium
-9,85,female,Alexandra,Alexandra Lesniowska,Sandnes vgs.
-10,85,male,Johan,Johan Svele,St. Olav vgs. Stavanger
-11,83,male,Anders,Anders Mathisen,Nadderud vgs.
-12,83,male,Marius,Marius Lindegaard,Oslo Katedralskole
-13,82,male,Marcus,Marcus Lexander,Nordahl Grieg vgs.
-14,82,male,Audun,Audun Jensen,Nydalen vgs.
-15,82,male,Sigurd,Sigurd Stene,Ole Vig vgs.
-16,82,male,Eirik,Eirik Liane,Skien vgs
-17,82,male,Anton,Anton Pletten,Stord vgs.
-18,80,male,Håvard,Håvard Melheim,Bergen Katedralskole
-19,80,male,Hans,Hans Giil,Halden vgs. avd. Porsnes
-20,80,male,Tobias,Tobias Laundal,Kristelig gymnasium
-21,80,male,Andreas,Andreas Johannesen,St. Olav vgs. Stavanger
-22,80,andy,Ondrej,Ondrej Nentwich,Ullern vgs
-23,80,male,Eivind,Eivind Dogger,Valler vgs.
-24,80,male,Boye,Boye Sjo,Valler vgs.
-25,80,female,Pernille,Pernille Terland,Valler vgs.
-26,79,male,Edvard,Edvard Christoffersen,Drammen vgs.
-27,79,male,Asbjørn,Asbjørn Verlo,Nadderud vgs.
-28,79,female,Mari,Mari Fiske,Surnadal vgs.
-29,78,female,Sofie,Sofie Kleven,Lillehammer vgs.
-30,78,male,Emil,Emil Hægermark,Oslo Katedralskole
-31,77,male,Fredrik,Fredrik Meringdal,Norges Toppidrettsgymnas
-32,77,male,Magnus,Magnus Ingstad,Ski vgs.
-33,77,male,Kristian,Kristian Borgen,Ullern vgs
-34,77,male,Simon,Simon Krogedal,Wang Toppidrett Stavanger
-35,76,female,Tonje,Tonje Nymark,Bergen Katedralskole
-36,76,male,Andreas,Andreas Sedin,Jessheim vgs.
-37,76,female,Ida,Ida Breivik,Metis vgs
-38,76,unknown,XXXXXXXX,XXXXXXXX XXXXXXXX,Molde vgs.
-39,76,male,Jonas,Jonas Wang,Narvik vgs
-40,76,male,Marius,Marius Stensrud,Ski vgs.
-41,76,male,Ola,Ola Kylling,Spjelkavik vgs.
-42,76,male,Aksel,Aksel Aase,Stavanger Katedralskole
-43,74,male,Odd-Erik,Odd-Erik Frantzen,Heggen vgs.
-44,74,unknown,XXXXXXXX,XXXXXXXX XXXXXXXX,Kirkenes vgs.
-45,74,female,Andrea,Andrea Larsen,Mandal vgs.
-46,74,male,Erling,Erling Rørvik,Oslo Katedralskole
-47,74,male,Jacob,Jacob Benestad,Roald Amundsen vgs.
-48,74,andy,Daria,Daria Barjaktarevic,Valler vgs.
-49,74,male,Mats,Mats Topstad,Vågsbygd vgs.
+points,gender,first_name,full_name,school
+97,male,Gunnar,Gunnar Grotmol,Langhaugen skole
+97,andy,Weicheng,Weicheng Hua,Lillestrøm vgs.
+97,male,Carl,Carl Andresen,Ullern vgs
+94,male,Sturla,Sturla Frydenlund,Drammen vgs.
+91,male,Johan,Johan Lokna,St. Olav vgs. Stavanger
+89,male,Erling,Erling Tønseth Svela,Bryne vgs.
+89,male,Brian,Brian Juvik,Porsgrunn vgs.
+88,male,Ask,Ask Løite,Blindern vgs.
+88,male,Bendik,Bendik Sannes,Kristelig gymnasium
+85,female,Alexandra,Alexandra Lesniowska,Sandnes vgs.
+85,male,Johan,Johan Svele,St. Olav vgs. Stavanger
+83,male,Anders,Anders Mathisen,Nadderud vgs.
+83,male,Marius,Marius Lindegaard,Oslo Katedralskole
+82,male,Marcus,Marcus Lexander,Nordahl Grieg vgs.
+82,male,Audun,Audun Jensen,Nydalen vgs.
+82,male,Sigurd,Sigurd Stene,Ole Vig vgs.
+82,male,Eirik,Eirik Liane,Skien vgs
+82,male,Anton,Anton Pletten,Stord vgs.
+80,male,Håvard,Håvard Melheim,Bergen Katedralskole
+80,male,Hans,Hans Giil,Halden vgs. avd. Porsnes
+80,male,Tobias,Tobias Laundal,Kristelig gymnasium
+80,male,Andreas,Andreas Johannesen,St. Olav vgs. Stavanger
+80,andy,Ondrej,Ondrej Nentwich,Ullern vgs
+80,male,Eivind,Eivind Dogger,Valler vgs.
+80,male,Boye,Boye Sjo,Valler vgs.
+80,female,Pernille,Pernille Terland,Valler vgs.
+79,male,Edvard,Edvard Christoffersen,Drammen vgs.
+79,male,Asbjørn,Asbjørn Verlo,Nadderud vgs.
+79,female,Mari,Mari Fiske,Surnadal vgs.
+78,female,Sofie,Sofie Kleven,Lillehammer vgs.
+78,male,Emil,Emil Hægermark,Oslo Katedralskole
+77,male,Fredrik,Fredrik Meringdal,Norges Toppidrettsgymnas
+77,male,Magnus,Magnus Ingstad,Ski vgs.
+77,male,Kristian,Kristian Borgen,Ullern vgs
+77,male,Simon,Simon Krogedal,Wang Toppidrett Stavanger
+76,female,Tonje,Tonje Nymark,Bergen Katedralskole
+76,male,Andreas,Andreas Sedin,Jessheim vgs.
+76,female,Ida,Ida Breivik,Metis vgs
+76,unknown,XXXXXXXX,XXXXXXXX XXXXXXXX,Molde vgs.
+76,male,Jonas,Jonas Wang,Narvik vgs
+76,male,Marius,Marius Stensrud,Ski vgs.
+76,male,Ola,Ola Kylling,Spjelkavik vgs.
+76,male,Aksel,Aksel Aase,Stavanger Katedralskole
+74,male,Odd-Erik,Odd-Erik Frantzen,Heggen vgs.
+74,unknown,XXXXXXXX,XXXXXXXX XXXXXXXX,Kirkenes vgs.
+74,female,Andrea,Andrea Larsen,Mandal vgs.
+74,male,Erling,Erling Rørvik,Oslo Katedralskole
+74,male,Jacob,Jacob Benestad,Roald Amundsen vgs.
+74,andy,Daria,Daria Barjaktarevic,Valler vgs.
+74,male,Mats,Mats Topstad,Vågsbygd vgs.

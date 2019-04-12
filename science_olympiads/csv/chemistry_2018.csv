@@ -1,50 +1,50 @@
-,points,gender,first_name,full_name,school
-0,91,female,Mathilde,Mathilde Verne,Oslo Katedralskole
-1,89,unknown,XXXXXXX,XXXXXXX XXXXXXX,St. Olav vgs. Stavange
-2,88,male,Leo,Leo Stoll,Mosjøen vgs.
-3,86,male,Erling,Erling Lie,Nadderud vgs.
-4,86,male,Peder,Peder Stokkan,Skeisvang vgs.
-5,85,male,Karl,Karl Lind,Aust-Lofoten vgs.
-6,83,male,Henrik,Henrik Kaarbø,Fagerlia vgs. AF
-7,83,male,Eskil,Eskil Vik,Stavanger Katedralskole
-8,82,male,Bjørnar,Bjørnar Hem,Nadderud vgs.
-9,82,male,Boye,Boye Sjo,Valler vgs.
-10,81,male,Gustav,Gustav Hansen,Bryne vgs.
-11,80,male,Olav,Olav Johannessen,Kongsbakken vgs.
-12,80,male,Fredrik,Fredrik Meringdal,Oslo Katedralskole
-13,80,male,Espen,Espen Rodenburg,Thor Heyerdahl vgs.
-14,78,male,Ole,Ole Walderhaug,Bergen Katedralskole
-15,78,male,Åsmund,Åsmund Sæther,Hadeland vgs.
-16,77,male,Sindre,Sindre Engedal,Drammen vgs.
-17,77,male,Ahmed,Ahmed Al Haidari,Porsgrunn vgs.
-18,77,female,Marie,Marie Bringsvor,St. Olav vgs.
-19,76,male,Henrik,Henrik Langesæter,Haugesund toppidrettsgymnas
-20,76,male,Morten,Morten Vinje,Porsgrunn vgs.
-21,75,female,Mariell,Mariell Rivedal,Amalie Skram vgs.
-22,75,male,Vetle,Vetle Holum,Jessheim vgs.
-23,75,male,Eskil,Eskil Mogstad,Nadderud vgs.
-24,75,female,Helene,Helene Nguyen,Valler vgs.
-25,74,male,Simon,Simon Strandenes,Danielsen vgs.
-26,74,male,Teodor,Teodor Knutsen,Sandefjord vgs.
-27,74,male,Henrik,Henrik Andrews,Stavanger Katedralskole
-28,74,male,Herman,Herman Caspersen,Ullern vgs
-29,72,male,Marius,Marius Dyngen,Hafstad vgs.
-30,72,andy,Xin,Xin Cong,Nadderud vgs.
-31,72,female,Hedda,Hedda Scheel,Nadderud vgs.
-32,72,male,Aksel,Aksel Næstby,Polarsirkelen vgs.
-33,72,male,Lars,Lars Bjørgaas,Porsgrunn vgs.
-34,72,male,Johan,Johan Larsson,St. Olav vgs.
-35,72,male,Ingrid,Ingrid Håbrekke,Trondheim Katedralskole
-36,70,male,Geir,Geir Vassnes,Amalie Skram vgs.
-37,70,male,Andreas,Andreas Gravrok,Kongsbakken vgs.
-38,69,male,Lavrans,Lavrans Seierstad,Lillehammer vgs.
-39,69,male,Jonas,Jonas Bakke,Thora Storm vgs
-40,69,male,Enok,Enok Sanne,Vågsbygd vgs.
-41,68,male,Sindre,Sindre Lothe,Amalie Skram vgs.
-42,68,male,Erlend,Erlend Withammer-Ekerhovd,Amalie Skram vgs.
-43,68,male,Mats,Mats Nottveit,Knarvik vgs.
-44,68,male,Philip,Philip Nilssen,Kristelig gymnasium
-45,67,male,Amund,Amund Bergset,Asker vgs.
-46,67,male,Henrik,Henrik Aspegren,Jessheim vgs.
-47,67,male,Erik,Erik Kleppan,Stavanger Katedralskole
-48,67,male,Jostein,Jostein Aanes,Thora Storm vgs
+points,gender,first_name,full_name,school
+91,female,Mathilde,Mathilde Verne,Oslo Katedralskole
+89,unknown,XXXXXXX,XXXXXXX XXXXXXX,St. Olav vgs. Stavange
+88,male,Leo,Leo Stoll,Mosjøen vgs.
+86,male,Erling,Erling Lie,Nadderud vgs.
+86,male,Peder,Peder Stokkan,Skeisvang vgs.
+85,male,Karl,Karl Lind,Aust-Lofoten vgs.
+83,male,Henrik,Henrik Kaarbø,Fagerlia vgs. AF
+83,male,Eskil,Eskil Vik,Stavanger Katedralskole
+82,male,Bjørnar,Bjørnar Hem,Nadderud vgs.
+82,male,Boye,Boye Sjo,Valler vgs.
+81,male,Gustav,Gustav Hansen,Bryne vgs.
+80,male,Olav,Olav Johannessen,Kongsbakken vgs.
+80,male,Fredrik,Fredrik Meringdal,Oslo Katedralskole
+80,male,Espen,Espen Rodenburg,Thor Heyerdahl vgs.
+78,male,Ole,Ole Walderhaug,Bergen Katedralskole
+78,male,Åsmund,Åsmund Sæther,Hadeland vgs.
+77,male,Sindre,Sindre Engedal,Drammen vgs.
+77,male,Ahmed,Ahmed Al Haidari,Porsgrunn vgs.
+77,female,Marie,Marie Bringsvor,St. Olav vgs.
+76,male,Henrik,Henrik Langesæter,Haugesund toppidrettsgymnas
+76,male,Morten,Morten Vinje,Porsgrunn vgs.
+75,female,Mariell,Mariell Rivedal,Amalie Skram vgs.
+75,male,Vetle,Vetle Holum,Jessheim vgs.
+75,male,Eskil,Eskil Mogstad,Nadderud vgs.
+75,female,Helene,Helene Nguyen,Valler vgs.
+74,male,Simon,Simon Strandenes,Danielsen vgs.
+74,male,Teodor,Teodor Knutsen,Sandefjord vgs.
+74,male,Henrik,Henrik Andrews,Stavanger Katedralskole
+74,male,Herman,Herman Caspersen,Ullern vgs
+72,male,Marius,Marius Dyngen,Hafstad vgs.
+72,andy,Xin,Xin Cong,Nadderud vgs.
+72,female,Hedda,Hedda Scheel,Nadderud vgs.
+72,male,Aksel,Aksel Næstby,Polarsirkelen vgs.
+72,male,Lars,Lars Bjørgaas,Porsgrunn vgs.
+72,male,Johan,Johan Larsson,St. Olav vgs.
+72,male,Ingrid,Ingrid Håbrekke,Trondheim Katedralskole
+70,male,Geir,Geir Vassnes,Amalie Skram vgs.
+70,male,Andreas,Andreas Gravrok,Kongsbakken vgs.
+69,male,Lavrans,Lavrans Seierstad,Lillehammer vgs.
+69,male,Jonas,Jonas Bakke,Thora Storm vgs
+69,male,Enok,Enok Sanne,Vågsbygd vgs.
+68,male,Sindre,Sindre Lothe,Amalie Skram vgs.
+68,male,Erlend,Erlend Withammer-Ekerhovd,Amalie Skram vgs.
+68,male,Mats,Mats Nottveit,Knarvik vgs.
+68,male,Philip,Philip Nilssen,Kristelig gymnasium
+67,male,Amund,Amund Bergset,Asker vgs.
+67,male,Henrik,Henrik Aspegren,Jessheim vgs.
+67,male,Erik,Erik Kleppan,Stavanger Katedralskole
+67,male,Jostein,Jostein Aanes,Thora Storm vgs

@@ -1,100 +1,100 @@
-,points,gender,first_name,full_name,school
-0,64,male,Thomas,Thomas Lund Mathisen,Kristelig Gymnasium
-1,64,male,Herman,Herman Sletmoen,Lillehammer vgs (avd Sør)
-2,60,male,Stein,Stein Elgethun,Oslo Katedralskole
-3,60,male,Sindre,Sindre Stenen Blakseth,Elverum videregående skole
-4,60,male,Fredrik,Fredrik Tvinde,Kristelig Gymnasium
-5,60,male,Sarek,Sarek H Skotåm,Elvebakken vgs
-6,60,male,Sindre,Sindre Midjeås,Frogn VGS
-7,60,male,Fridtjof,Fridtjof Eikanger,Trondheim Katedralskole
-8,58,male,Ole,Ole Martin Ruud,Arendal VGS
-9,58,male,Henning,Henning E Homseslet,Kongsbakken
-10,58,male,Mathias,Mathias Chunnoo,Trondheim Katedralskole
-11,58,male,Ola,Ola Irgens Kylling,Spjelkavik videregående skole
-12,57,male,Morten,Morten Smebye,Stabekk vgs
-13,57,female,Luna,Luna Nova Reibo,Kongsbakken
-14,56,male,Erling,Erling Skaarseth Rørvik,Oslo Katedralskole
-15,56,male,Tobias,Tobias Laundal,Kristelig Gymnasium
-16,56,male,Herman,Herman Kolden,Lillehammer vgs (avd Sør)
-17,55,male,August,August Gislerud Rolfsen,Ringstabekk ungdomskole/Valler vgs
-18,55,male,Marcel,Marcel Grewal Sommerfelt,Bergen Katedralskole
-19,55,female,Oda,Oda Falch Martiniussen,Trondheim Katedralskole
-20,54,male,Ingebrigt,Ingebrigt Nygård,Tryggheim skular
-21,53,male,Dmitry,Dmitry Koujelev,Sandnes vgs
-22,53,male,Niklas,Niklas Sølvberg-Øverby,Elverum videregående skole
-23,53,male,Jonas,Jonas Rogde Jørgensen,Heggen videregående skole
-24,52,male,Daniel,Daniel Tobias Johansen Langhoff,Nord-Troms vgs
-25,52,male,Axel,Axel Henæs Rønold,Elvebakken vgs
-26,52,male,Håvard,Håvard Terland,Bergen Katedralskole
-27,52,male,Sivert,Sivert Schou Olsen,Foss videregående skole
-28,52,male,Karl,Karl August Høivik,Drammen vgs
-29,52,male,Herman,Herman Skogseth,Frogn VGS
-30,52,male,Christer,Christer Gjerde,Amalie Skram Vgs
-31,51,female,Marlene,Marlene Bergland Krøtø,Heggen videregående skole
-32,51,male,Olav,Olav Andreas Grøtta,Spjelkavik videregående skole
-33,50,male,Alexander,Alexander Meldal Andersen,Stabekk vgs
-34,50,female,Martine,Martine Dyring Hansen,Heggen videregående skole
-35,50,male,Wilhelm,Wilhelm Kristiansen,Bergen Katedralskole
-36,50,male,Thomas,Thomas Holene Løkkeborg,Spjelkavik videregående skole
-37,49,male,Eivind,Eivind Kopperud,Drammen VGS
-38,49,male,Aleksander,Aleksander Kjellevand,Vågsbygd videregående skole
-39,49,male,Johannes,Johannes Hansen Haugland,Bergen Katedralskole
-40,49,male,Birk,Birk Tjelmeland,Bergen Katedralskole
-41,48,male,Christian,Christian Magnus Rand,Elvebakken vgs
-42,48,male,André,André Sait Eppeland,Kristiansand katedralskole Gimle
-43,48,male,Tristan,Tristan Dobrowolski,Lillehammer vgs (avd Sør)
-44,48,unknown,Neethan,Neethan Puvanendran,Kongsbakken
-45,48,male,Thomas,Thomas Mjåland,Drammen vgs
-46,48,male,Joakim,Joakim Hauger Sunde,Frogn VGS
-47,48,male,Vegard,Vegard Buset,Spjelkavik videregående skole
-48,48,male,Jens,Jens Henrik Rage,Rosenvilde VGS
-49,47,male,Andreas,Andreas Palm Sivertsen,Bergen Katedralskole
-50,47,male,Oliver,Oliver Orenfellen,Vestby vgs
-51,47,male,Magomed,Magomed Bakhmadov,Drammen vgs
-52,47,male,Nikolai,Nikolai Steen Kjosnes,Drammen vgs
-53,47,male,Martin,Martin Barndt,Frogn VGS
-54,46,male,Marcel,Marcel Wrzos-Kaminski,Stabekk vgs
-55,46,male,Eivind,Eivind Kristiansen,Oslo Katedralskole
-56,46,male,Didrik,Didrik Frimann Barrosso Koren,Oslo Katedralskole
-57,46,male,Jonas,Jonas Sjong Forfot,Gol vidaregåande skule
-58,46,male,Magnus,Magnus Reier Rushfeldt,Kongsbakken
-59,46,male,William,William Solberg Bjønness,Foss videregående skole
-60,45,male,Thomas,Thomas Johan Blydt,Stabekk vgs
-61,45,male,Erik,Erik Larsen,Drammen VGS
-62,45,male,Terje,Terje Gundersen,Mailand Videregående Skole
-63,45,male,Sindre,Sindre Sørensen,Elvebakken vgs
-64,45,female,Aurora,Aurora Hagen,Drammen vgs
-65,45,male,Øyvind,Øyvind Sørsdal,Frogn VGS
-66,44,male,Stian,Stian Ely Bakken,Stabekk vgs
-67,44,male,Herman,Herman Henriksen,Oslo Katedralskole
-68,44,male,Preben,Preben Thambiah,Valler vgs
-69,44,male,Alexander,Alexander Sagen,Kristelig Gymnasium
-70,44,male,Aleksander,Aleksander Berg Granum,Lillehammer vgs (avd Sør)
-71,44,male,Philip,Philip Niane,Drammen vgs
-72,44,male,Sebastian,Sebastian Oliver Dadl,Frogn VGS
-73,43,male,Andreas,Andreas Husa,Sandnes vgs
-74,43,male,Jakob,Jakob Anthony Fallaas,Elvebakken vgs
-75,43,male,Magnus,Magnus Kjørseng,Drammen vgs
-76,42,male,Even,Even Gultvedt,Vestby vgs
-77,42,male,Lars,Lars Martin Hodne,Tryggheim skular
-78,41,male,Jørgen,Jørgen Jærnes,Vågsbygd videregående skole
-79,41,male,Martin,Martin Brådalen,Elverum videregående skole
-80,41,male,Sindre,Sindre Holtskog,Elvebakken vgs
-81,41,female,Silje,Silje Bjune,Elvebakken vgs
-82,41,unknown,Kavusikan,Kavusikan Sivasubramanram,Elvebakken vgs
-83,41,male,Henrik,Henrik Schjønneberg,Frogn VGS
-84,41,male,Sigur,Sigur Vatn Totland,Nesodden VGS
-85,41,male,Ingebrigt,Ingebrigt Gullaksen,Amalie Skram Vgs
-86,40,male,Martin,Martin Gjerde,Stabekk vgs
-87,40,male,Kristian,Kristian Tveiten,Drammen VGS
-88,40,male,Theodor,Theodor Harket,Drammen VGS
-89,40,male,Dag,Dag Åsmund Spångberg,Vågsbygd videregående skole
-90,40,male,Reidar,Reidar Strømme,Vågsbygd videregående skole
-91,40,male,Per,Per Braastad,Kristelig Gymnasium
-92,40,male,Harald,Harald Svartsund,Elvebakken vgs
-93,40,male,Edvard,Edvard Tollefsrud,Lillehammer vgs (avd Sør)
-94,40,male,Sondre,Sondre Ek,Frogn VGS
-95,40,male,Tjøl,Tjøl Ravndal,Tryggheim skular
-96,40,male,Karl,Karl Petter Aubert,Rosenvilde VGS
-97,40,male,Tor,Tor Berre,Lambertseter vgs
-98,40,male,Thomas,Thomas Ådlandsvik,Amalie Skram Vgs
+points,gender,first_name,full_name,school
+64,male,Thomas,Thomas Lund Mathisen,Kristelig Gymnasium
+64,male,Herman,Herman Sletmoen,Lillehammer vgs (avd Sør)
+60,male,Stein,Stein Elgethun,Oslo Katedralskole
+60,male,Sindre,Sindre Stenen Blakseth,Elverum videregående skole
+60,male,Fredrik,Fredrik Tvinde,Kristelig Gymnasium
+60,male,Sarek,Sarek H Skotåm,Elvebakken vgs
+60,male,Sindre,Sindre Midjeås,Frogn VGS
+60,male,Fridtjof,Fridtjof Eikanger,Trondheim Katedralskole
+58,male,Ole,Ole Martin Ruud,Arendal VGS
+58,male,Henning,Henning E Homseslet,Kongsbakken
+58,male,Mathias,Mathias Chunnoo,Trondheim Katedralskole
+58,male,Ola,Ola Irgens Kylling,Spjelkavik videregående skole
+57,male,Morten,Morten Smebye,Stabekk vgs
+57,female,Luna,Luna Nova Reibo,Kongsbakken
+56,male,Erling,Erling Skaarseth Rørvik,Oslo Katedralskole
+56,male,Tobias,Tobias Laundal,Kristelig Gymnasium
+56,male,Herman,Herman Kolden,Lillehammer vgs (avd Sør)
+55,male,August,August Gislerud Rolfsen,Ringstabekk ungdomskole/Valler vgs
+55,male,Marcel,Marcel Grewal Sommerfelt,Bergen Katedralskole
+55,female,Oda,Oda Falch Martiniussen,Trondheim Katedralskole
+54,male,Ingebrigt,Ingebrigt Nygård,Tryggheim skular
+53,male,Dmitry,Dmitry Koujelev,Sandnes vgs
+53,male,Niklas,Niklas Sølvberg-Øverby,Elverum videregående skole
+53,male,Jonas,Jonas Rogde Jørgensen,Heggen videregående skole
+52,male,Daniel,Daniel Tobias Johansen Langhoff,Nord-Troms vgs
+52,male,Axel,Axel Henæs Rønold,Elvebakken vgs
+52,male,Håvard,Håvard Terland,Bergen Katedralskole
+52,male,Sivert,Sivert Schou Olsen,Foss videregående skole
+52,male,Karl,Karl August Høivik,Drammen vgs
+52,male,Herman,Herman Skogseth,Frogn VGS
+52,male,Christer,Christer Gjerde,Amalie Skram Vgs
+51,female,Marlene,Marlene Bergland Krøtø,Heggen videregående skole
+51,male,Olav,Olav Andreas Grøtta,Spjelkavik videregående skole
+50,male,Alexander,Alexander Meldal Andersen,Stabekk vgs
+50,female,Martine,Martine Dyring Hansen,Heggen videregående skole
+50,male,Wilhelm,Wilhelm Kristiansen,Bergen Katedralskole
+50,male,Thomas,Thomas Holene Løkkeborg,Spjelkavik videregående skole
+49,male,Eivind,Eivind Kopperud,Drammen VGS
+49,male,Aleksander,Aleksander Kjellevand,Vågsbygd videregående skole
+49,male,Johannes,Johannes Hansen Haugland,Bergen Katedralskole
+49,male,Birk,Birk Tjelmeland,Bergen Katedralskole
+48,male,Christian,Christian Magnus Rand,Elvebakken vgs
+48,male,André,André Sait Eppeland,Kristiansand katedralskole Gimle
+48,male,Tristan,Tristan Dobrowolski,Lillehammer vgs (avd Sør)
+48,unknown,Neethan,Neethan Puvanendran,Kongsbakken
+48,male,Thomas,Thomas Mjåland,Drammen vgs
+48,male,Joakim,Joakim Hauger Sunde,Frogn VGS
+48,male,Vegard,Vegard Buset,Spjelkavik videregående skole
+48,male,Jens,Jens Henrik Rage,Rosenvilde VGS
+47,male,Andreas,Andreas Palm Sivertsen,Bergen Katedralskole
+47,male,Oliver,Oliver Orenfellen,Vestby vgs
+47,male,Magomed,Magomed Bakhmadov,Drammen vgs
+47,male,Nikolai,Nikolai Steen Kjosnes,Drammen vgs
+47,male,Martin,Martin Barndt,Frogn VGS
+46,male,Marcel,Marcel Wrzos-Kaminski,Stabekk vgs
+46,male,Eivind,Eivind Kristiansen,Oslo Katedralskole
+46,male,Didrik,Didrik Frimann Barrosso Koren,Oslo Katedralskole
+46,male,Jonas,Jonas Sjong Forfot,Gol vidaregåande skule
+46,male,Magnus,Magnus Reier Rushfeldt,Kongsbakken
+46,male,William,William Solberg Bjønness,Foss videregående skole
+45,male,Thomas,Thomas Johan Blydt,Stabekk vgs
+45,male,Erik,Erik Larsen,Drammen VGS
+45,male,Terje,Terje Gundersen,Mailand Videregående Skole
+45,male,Sindre,Sindre Sørensen,Elvebakken vgs
+45,female,Aurora,Aurora Hagen,Drammen vgs
+45,male,Øyvind,Øyvind Sørsdal,Frogn VGS
+44,male,Stian,Stian Ely Bakken,Stabekk vgs
+44,male,Herman,Herman Henriksen,Oslo Katedralskole
+44,male,Preben,Preben Thambiah,Valler vgs
+44,male,Alexander,Alexander Sagen,Kristelig Gymnasium
+44,male,Aleksander,Aleksander Berg Granum,Lillehammer vgs (avd Sør)
+44,male,Philip,Philip Niane,Drammen vgs
+44,male,Sebastian,Sebastian Oliver Dadl,Frogn VGS
+43,male,Andreas,Andreas Husa,Sandnes vgs
+43,male,Jakob,Jakob Anthony Fallaas,Elvebakken vgs
+43,male,Magnus,Magnus Kjørseng,Drammen vgs
+42,male,Even,Even Gultvedt,Vestby vgs
+42,male,Lars,Lars Martin Hodne,Tryggheim skular
+41,male,Jørgen,Jørgen Jærnes,Vågsbygd videregående skole
+41,male,Martin,Martin Brådalen,Elverum videregående skole
+41,male,Sindre,Sindre Holtskog,Elvebakken vgs
+41,female,Silje,Silje Bjune,Elvebakken vgs
+41,unknown,Kavusikan,Kavusikan Sivasubramanram,Elvebakken vgs
+41,male,Henrik,Henrik Schjønneberg,Frogn VGS
+41,male,Sigur,Sigur Vatn Totland,Nesodden VGS
+41,male,Ingebrigt,Ingebrigt Gullaksen,Amalie Skram Vgs
+40,male,Martin,Martin Gjerde,Stabekk vgs
+40,male,Kristian,Kristian Tveiten,Drammen VGS
+40,male,Theodor,Theodor Harket,Drammen VGS
+40,male,Dag,Dag Åsmund Spångberg,Vågsbygd videregående skole
+40,male,Reidar,Reidar Strømme,Vågsbygd videregående skole
+40,male,Per,Per Braastad,Kristelig Gymnasium
+40,male,Harald,Harald Svartsund,Elvebakken vgs
+40,male,Edvard,Edvard Tollefsrud,Lillehammer vgs (avd Sør)
+40,male,Sondre,Sondre Ek,Frogn VGS
+40,male,Tjøl,Tjøl Ravndal,Tryggheim skular
+40,male,Karl,Karl Petter Aubert,Rosenvilde VGS
+40,male,Tor,Tor Berre,Lambertseter vgs
+40,male,Thomas,Thomas Ådlandsvik,Amalie Skram Vgs
